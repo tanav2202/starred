@@ -10,7 +10,6 @@
   - [CSS](#css)
   - [Dart](#dart)
   - [HTML](#html)
-  - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
@@ -31,8 +30,6 @@
 
 ## C++ 
 
-- [IT-CS-ECE-2024Batch/DAAassign](https://github.com/IT-CS-ECE-2024Batch/DAAassign) - DAA assignments
-- [IT-CS-ECE-2024Batch/OOPsAssign](https://github.com/IT-CS-ECE-2024Batch/OOPsAssign) - 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 
 ## CSS 
@@ -47,19 +44,13 @@
 
 - [neos-20/neos-20.github.io](https://github.com/neos-20/neos-20.github.io) - Official static website for Neos Project
 
-## Java 
-
-- [kunal-kushwaha/DSA-Bootcamp-Java](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) - This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.
-
 ## JavaScript 
 
-- [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
-- [space-voyager-21/space-voyager](https://github.com/space-voyager-21/space-voyager) - Interactive Space App . Attention Contributers! join discord server for discussion of Issues, Pull requests https://discord.gg/FpEK9AqbCf
 - [mohittk/Space-app-shellhacks](https://github.com/mohittk/Space-app-shellhacks) - 
+- [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [WebDevSimplified/Vanilla-JavaScript-Calculator](https://github.com/WebDevSimplified/Vanilla-JavaScript-Calculator) - Pure vanilla JavaScript calculator using modern ES6 syntax and classes
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [Chensokheng/island](https://github.com/Chensokheng/island) - 
 - [chec/commerce.js](https://github.com/chec/commerce.js) - Open source, JS eCommerce SDK for building headless, Jamstack applications. Build custom storefronts, carts, and checkouts in any frontend framework, platform, or device. Integrates with Stripe, Square, PayPal, Paymill and Razorpay with support for 135+ currencies.
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
@@ -67,6 +58,9 @@
 
 ## Jupyter Notebook 
 
+- [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
+- [Garima13a/Automatic-Image-Captioning](https://github.com/Garima13a/Automatic-Image-Captioning) - In this project, I have created a neural network architecture to automatically generate captions from images.  After using the Microsoft Common Objects in COntext (MS COCO) dataset to train my network, I have tested my network on novel images!
+- [codebasics/deep-learning-keras-tf-tutorial](https://github.com/codebasics/deep-learning-keras-tf-tutorial) - Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning tutorial series. Learn deep learning from scratch. Deep learning series for beginners. Tensorflow tutorials, tensorflow 2.0 tutorial. deep learning tutorial python.
 - [towardsai/tutorials](https://github.com/towardsai/tutorials) - AI-related tutorials. Access any of them for free → https://towardsai.net/editorial
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [hhhrrrttt222111/DS_and_ML_projects](https://github.com/hhhrrrttt222111/DS_and_ML_projects) - Data Science & Machine Learning projects and tutorials in python from beginner to advanced level.
@@ -77,6 +71,8 @@
 
 ## Lua 
 
+- [tiagovla/.dotfiles](https://github.com/tiagovla/.dotfiles) - 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - A Neovim config designed from scratch to be understandable
 - [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - A minimal neovim configuration
@@ -129,6 +125,7 @@
 
 ## Shell 
 
+- [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config) - Scripts and notes for custom pulseaudio configuration
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
 - [hxyro/rcli](https://github.com/hxyro/rcli) - Browse and download images from reddit.
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
@@ -141,7 +138,6 @@
 
 ## TypeScript 
 
-- [IIITKotaDevs/IIITians_Network_Website](https://github.com/IIITKotaDevs/IIITians_Network_Website) - 
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 
 ## Vim script 
