@@ -5,7 +5,6 @@
 
 ## Contents
 
-  - [Batchfile](#batchfile)
   - [C++](#c++)
   - [CSS](#css)
   - [Dart](#dart)
@@ -24,24 +23,28 @@
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
 
-## Batchfile 
-
-- [vibhanshujainiiitr/roadrash](https://github.com/vibhanshujainiiitr/roadrash) - 
-
 ## C++ 
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 
 ## CSS 
 
+- [tanav2202/sunderbans-website](https://github.com/tanav2202/sunderbans-website) - 
+- [tanav2202/calculator](https://github.com/tanav2202/calculator) - 
+- [tanav2202/PhpStore](https://github.com/tanav2202/PhpStore) - 
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 
 ## Dart 
 
+- [tanav2202/first_flutter_projects](https://github.com/tanav2202/first_flutter_projects) - My first attempt at app dev
 - [kartik-pant-23/IIITB-Hogwarts](https://github.com/kartik-pant-23/IIITB-Hogwarts) - This is going to be fun project for our college students. Thinking of bringing Harry Potter style group division into college.
 
 ## HTML 
 
+- [tanav2202/MyPortfolio](https://github.com/tanav2202/MyPortfolio) - My Portfolio Website
+- [tanav2202/books](https://github.com/tanav2202/books) - Website about my books
+- [tanav2202/walls](https://github.com/tanav2202/walls) - 
+- [tanav2202/tanav2202.github.io](https://github.com/tanav2202/tanav2202.github.io) - My Portfolio Website
 - [neos-20/neos-20.github.io](https://github.com/neos-20/neos-20.github.io) - Official static website for Neos Project
 
 ## JavaScript 
@@ -58,6 +61,7 @@
 
 ## Jupyter Notebook 
 
+- [tanav2202/Stats-and-ML](https://github.com/tanav2202/Stats-and-ML) - A collection of code I write for Stats and Ml and my kaggle notebooks
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [Garima13a/Automatic-Image-Captioning](https://github.com/Garima13a/Automatic-Image-Captioning) - In this project, I have created a neural network architecture to automatically generate captions from images.  After using the Microsoft Common Objects in COntext (MS COCO) dataset to train my network, I have tested my network on novel images!
 - [codebasics/deep-learning-keras-tf-tutorial](https://github.com/codebasics/deep-learning-keras-tf-tutorial) - Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning tutorial series. Learn deep learning from scratch. Deep learning series for beginners. Tensorflow tutorials, tensorflow 2.0 tutorial. deep learning tutorial python.
@@ -83,8 +87,11 @@
 
 ## Others 
 
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
+- [tanav2202/global](https://github.com/tanav2202/global) - HTML5 website template
+- [tanav2202/dotstow](https://github.com/tanav2202/dotstow) - 
+- [tanav2202/starred](https://github.com/tanav2202/starred) - 
 - [tanav2202/tanav2202](https://github.com/tanav2202/tanav2202) - readme for github
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
@@ -101,10 +108,15 @@
 
 ## PHP 
 
+- [tanav2202/CMS](https://github.com/tanav2202/CMS) - Content Management System made using Php , MySQl/MariaDb in Linux
 - [wftutorials/php-mini-projects](https://github.com/wftutorials/php-mini-projects) - PHP mini projects
 
 ## Python 
 
+- [tanav2202/based-cs](https://github.com/tanav2202/based-cs) - 
+- [tanav2202/BegineerPythonProjects](https://github.com/tanav2202/BegineerPythonProjects) - 
+- [tanav2202/Numerical-Methods](https://github.com/tanav2202/Numerical-Methods) - 
+- [ij007/PythonLearn](https://github.com/ij007/PythonLearn) - Learning Python from scratch
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [suraj-singh12/Project-SearchEverywhere](https://github.com/suraj-singh12/Project-SearchEverywhere) - A tool to fetch you exactly the information you are looking for, from a bunch of files.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
@@ -112,7 +124,6 @@
 - [FahadulShadhin/Sorting-Algorithms-Visualizer](https://github.com/FahadulShadhin/Sorting-Algorithms-Visualizer) - A python application to visualize sorting algorithms
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
-- [ij007/PythonLearn](https://github.com/ij007/PythonLearn) - Learning Python from scratch
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## Ruby 
