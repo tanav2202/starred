@@ -89,7 +89,7 @@
 
 - [tanav2202/global](https://github.com/tanav2202/global) - HTML5 website template
 - [tanav2202/dotstow](https://github.com/tanav2202/dotstow) - 
-- [tanav2202/starred](https://github.com/tanav2202/starred) - 
+- [tanav2202/starred](https://github.com/tanav2202/starred) - Github stars compiled using GitHub Actions
 - [tanav2202/tanav2202](https://github.com/tanav2202/tanav2202) - readme for github
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -136,6 +136,7 @@
 
 ## Shell 
 
+- [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
 - [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config) - Scripts and notes for custom pulseaudio configuration
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
 - [hxyro/rcli](https://github.com/hxyro/rcli) - Browse and download images from reddit.
