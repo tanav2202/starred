@@ -113,6 +113,8 @@
 
 ## Python 
 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [tanav2202/based-cs](https://github.com/tanav2202/based-cs) - 
 - [tanav2202/BegineerPythonProjects](https://github.com/tanav2202/BegineerPythonProjects) - 
 - [tanav2202/Numerical-Methods](https://github.com/tanav2202/Numerical-Methods) - 
