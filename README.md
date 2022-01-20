@@ -61,6 +61,7 @@
 
 ## Jupyter Notebook 
 
+- [tuangauss/DataScienceProjects](https://github.com/tuangauss/DataScienceProjects) - The code repository for projects and tutorials in R and Python that covers a variety of topics in data visualization, statistics sports analytics and general application of probability theory.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [tanav2202/Stats-and-ML](https://github.com/tanav2202/Stats-and-ML) - A collection of code I write for Stats and Ml and my kaggle notebooks
