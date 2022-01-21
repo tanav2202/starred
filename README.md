@@ -16,7 +16,6 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
-  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
   - [TeX](#tex)
@@ -37,7 +36,6 @@
 ## Dart 
 
 - [tanav2202/first_flutter_projects](https://github.com/tanav2202/first_flutter_projects) - My first attempt at app dev
-- [kartik-pant-23/IIITB-Hogwarts](https://github.com/kartik-pant-23/IIITB-Hogwarts) - This is going to be fun project for our college students. Thinking of bringing Harry Potter style group division into college.
 
 ## HTML 
 
@@ -49,15 +47,11 @@
 
 ## JavaScript 
 
-- [mohittk/Space-app-shellhacks](https://github.com/mohittk/Space-app-shellhacks) - 
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [WebDevSimplified/Vanilla-JavaScript-Calculator](https://github.com/WebDevSimplified/Vanilla-JavaScript-Calculator) - Pure vanilla JavaScript calculator using modern ES6 syntax and classes
-- [Chensokheng/island](https://github.com/Chensokheng/island) - 
 - [chec/commerce.js](https://github.com/chec/commerce.js) - Open source, JS eCommerce SDK for building headless, Jamstack applications. Build custom storefronts, carts, and checkouts in any frontend framework, platform, or device. Integrates with Stripe, Square, PayPal, Paymill and Razorpay with support for 135+ currencies.
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 ## Jupyter Notebook 
 
@@ -90,6 +84,7 @@
 
 ## Others 
 
+- [umgbhalla/design](https://github.com/umgbhalla/design) - dumping my figma exports
 - [tanav2202/global](https://github.com/tanav2202/global) - HTML5 website template
 - [tanav2202/dotstow](https://github.com/tanav2202/dotstow) - 
 - [tanav2202/starred](https://github.com/tanav2202/starred) - Github stars compiled using GitHub Actions
@@ -112,10 +107,10 @@
 ## PHP 
 
 - [tanav2202/CMS](https://github.com/tanav2202/CMS) - Content Management System made using Php , MySQl/MariaDb in Linux
-- [wftutorials/php-mini-projects](https://github.com/wftutorials/php-mini-projects) - PHP mini projects
 
 ## Python 
 
+- [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [tanav2202/based-cs](https://github.com/tanav2202/based-cs) - 
@@ -130,10 +125,6 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-
-## Ruby 
-
-- [wsizoo/game-of-thrones-quotes](https://github.com/wsizoo/game-of-thrones-quotes) - A JSON API for Game of Thrones Quotes
 
 ## Rust 
 
@@ -150,11 +141,13 @@
 
 ## TeX 
 
+- [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [AllenDowney/ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
 - [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) - A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.
 
 ## TypeScript 
 
+- [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 
 ## Vim script 
