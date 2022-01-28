@@ -56,6 +56,10 @@
 
 ## Jupyter Notebook 
 
+- [parulnith/Face-Detection-in-Python-using-OpenCV](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV) - Face Detection with Python using OpenCV
+- [kb22/Heart-Disease-Prediction](https://github.com/kb22/Heart-Disease-Prediction) - The project involves training a machine learning model (K Neighbors Classifier) to predict whether someone is suffering from a heart disease with 87% accuracy.
+- [parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK) - Building a Simple Chatbot from Scratch in Python (using NLTK)
+- [g-shreekant/Sales-Prediction-of-Walmart-using-Machine-Learning](https://github.com/g-shreekant/Sales-Prediction-of-Walmart-using-Machine-Learning) - The purpose of this project is to develop a predictive model and find out the sales of each product at a given Walmart store.
 - [tuangauss/DataScienceProjects](https://github.com/tuangauss/DataScienceProjects) - The code repository for projects and tutorials in R and Python that covers a variety of topics in data visualization, statistics sports analytics and general application of probability theory.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
@@ -111,6 +115,7 @@
 
 ## Python 
 
+- [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 - [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
 - [quandl/quandl-python](https://github.com/quandl/quandl-python) - 
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
