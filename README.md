@@ -56,6 +56,7 @@
 
 ## Jupyter Notebook 
 
+- [cryptonhq/btc_value_estimation](https://github.com/cryptonhq/btc_value_estimation) - Bitcoin value forecast using twitter sentiment analysis and previous data.
 - [parulnith/Face-Detection-in-Python-using-OpenCV](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV) - Face Detection with Python using OpenCV
 - [kb22/Heart-Disease-Prediction](https://github.com/kb22/Heart-Disease-Prediction) - The project involves training a machine learning model (K Neighbors Classifier) to predict whether someone is suffering from a heart disease with 87% accuracy.
 - [parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK) - Building a Simple Chatbot from Scratch in Python (using NLTK)
