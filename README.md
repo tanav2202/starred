@@ -34,6 +34,7 @@
 
 ## CSS 
 
+- [kshgrk/linux_dotfiles](https://github.com/kshgrk/linux_dotfiles) - 
 - [tanav2202/sunderbans-website](https://github.com/tanav2202/sunderbans-website) - 
 - [tanav2202/calculator](https://github.com/tanav2202/calculator) - 
 - [tanav2202/PhpStore](https://github.com/tanav2202/PhpStore) - 
@@ -62,6 +63,8 @@
 
 ## Jupyter Notebook 
 
+- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
+- [cryptonhq/btc_tweets_analysis](https://github.com/cryptonhq/btc_tweets_analysis) - Sentiment analysis of tweets related to **BITCOIN** on order to understand market sentiment and to use this to increase the accuracy of future predictions made using previous BTC data [here]()
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, RDFlib, pySHACL, RAPIDS, NetworkX, iGraph, PyVis, pslpython, pyarrow, etc.
 - [cryptonhq/btc_value_estimation](https://github.com/cryptonhq/btc_value_estimation) - Bitcoin value forecast using twitter sentiment analysis and previous data.
@@ -146,10 +149,12 @@
 
 ## Rust 
 
+- [cryptonhq/tweet_json_modifier](https://github.com/cryptonhq/tweet_json_modifier) - 
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 
 ## Shell 
 
+- [umgbhalla/dotstow](https://github.com/umgbhalla/dotstow) - dotfiles managed with stow
 - [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
 - [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config) - Scripts and notes for custom pulseaudio configuration
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
