@@ -63,6 +63,7 @@
 
 ## Jupyter Notebook 
 
+- [edualgo/Grokking-Machine-Learning](https://github.com/edualgo/Grokking-Machine-Learning) - This repo aims to contain different machine learning use cases along with the descriptions to the model architectures
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 - [cryptonhq/btc_tweets_analysis](https://github.com/cryptonhq/btc_tweets_analysis) - Sentiment analysis of tweets related to **BITCOIN** on order to understand market sentiment and to use this to increase the accuracy of future predictions made using previous BTC data [here]()
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
