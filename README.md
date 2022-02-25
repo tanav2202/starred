@@ -35,6 +35,7 @@
 
 ## CSS 
 
+- [omarsar/nlp_overview](https://github.com/omarsar/nlp_overview) - Overview of Modern Deep Learning Techniques Applied to Natural Language Processing
 - [kshgrk/linux_dotfiles](https://github.com/kshgrk/linux_dotfiles) - 
 - [tanav2202/sunderbans-website](https://github.com/tanav2202/sunderbans-website) - 
 - [tanav2202/calculator](https://github.com/tanav2202/calculator) - 
