@@ -104,6 +104,7 @@
 
 ## Others 
 
+- [umgbhalla/flutter-demo](https://github.com/umgbhalla/flutter-demo) - 
 - [umgbhalla/design](https://github.com/umgbhalla/design) - dumping my figma exports
 - [tanav2202/global](https://github.com/tanav2202/global) - HTML5 website template
 - [tanav2202/dotstow](https://github.com/tanav2202/dotstow) - 
