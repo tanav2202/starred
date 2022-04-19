@@ -70,6 +70,8 @@
 
 ## Jupyter Notebook 
 
+- [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) - 🙌Kart of 210+ projects based on machine learning, deep learning, computer vision, natural language processing and all. Show your support by ✨ this repository.
+- [sanskar-hasija/COVID-19_Detection](https://github.com/sanskar-hasija/COVID-19_Detection) - Official Repository for A Novel Approach for detecting Normal, COVID-19 and Pneumonia patient using only binary classifications from chest CT-Scans Paper
 - [FreeBirdsCrew/AI_ChatBot_Python](https://github.com/FreeBirdsCrew/AI_ChatBot_Python) - AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side TFLearn
 - [edualgo/Grokking-Machine-Learning](https://github.com/edualgo/Grokking-Machine-Learning) - This repo aims to contain different machine learning use cases along with the descriptions to the model architectures
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
@@ -141,6 +143,7 @@
 
 ## Python 
 
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 - [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
