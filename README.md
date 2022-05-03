@@ -112,6 +112,7 @@
 
 ## Others 
 
+- [tanav2202/dbms_database](https://github.com/tanav2202/dbms_database) - SQL Queries Used for College DBMS project
 - [umgbhalla/flutter-demo](https://github.com/umgbhalla/flutter-demo) - 
 - [umgbhalla/design](https://github.com/umgbhalla/design) - dumping my figma exports
 - [tanav2202/global](https://github.com/tanav2202/global) - HTML5 website template
