@@ -44,6 +44,7 @@
 - [kshgrk/linux_dotfiles](https://github.com/kshgrk/linux_dotfiles) - 
 - [tanav2202/sunderbans-website](https://github.com/tanav2202/sunderbans-website) - 
 - [tanav2202/calculator](https://github.com/tanav2202/calculator) - 
+- [tanav2202/global](https://github.com/tanav2202/global) - HTML5 website template
 - [tanav2202/PhpStore](https://github.com/tanav2202/PhpStore) - 
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 
@@ -65,7 +66,7 @@
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [chec/commerce.js](https://github.com/chec/commerce.js) - Open source, JS eCommerce SDK for building headless, Jamstack applications. Build custom storefronts, carts, and checkouts in any frontend framework, platform, or device. Integrates with Stripe, Square, PayPal, Paymill and Razorpay with support for 135+ currencies.
+- [chec/commerce.js](https://github.com/chec/commerce.js) - Open source, JS eCommerce SDK for building headless, Jamstack applications. Build custom storefronts, carts, and checkouts in any frontend framework, platform, or device. Integrates with Stripe, Squar
 - [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 
 ## Jupyter Notebook 
@@ -77,7 +78,7 @@
 - [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
 - [cryptonhq/btc_tweets_analysis](https://github.com/cryptonhq/btc_tweets_analysis) - Sentiment analysis of tweets related to **BITCOIN** on order to understand market sentiment and to use this to increase the accuracy of future predictions made using previous BTC data [here]()
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
-- [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython, pyarrow, etc.
+- [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython,
 - [cryptonhq/btc_value_estimation](https://github.com/cryptonhq/btc_value_estimation) - Bitcoin value forecast using twitter sentiment analysis and previous data.
 - [parulnith/Face-Detection-in-Python-using-OpenCV](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV) - Face Detection with Python using OpenCV
 - [kb22/Heart-Disease-Prediction](https://github.com/kb22/Heart-Disease-Prediction) - The project involves training a machine learning model (K Neighbors Classifier) to predict whether someone is suffering from a heart disease with 87% accuracy.
@@ -85,11 +86,11 @@
 - [g-shreekant/Sales-Prediction-of-Walmart-using-Machine-Learning](https://github.com/g-shreekant/Sales-Prediction-of-Walmart-using-Machine-Learning) - The purpose of this project is to develop a predictive model and find out the sales of each product at a given Walmart store.
 - [tuangauss/DataScienceProjects](https://github.com/tuangauss/DataScienceProjects) - The code repository for projects and tutorials in R and Python that covers a variety of topics in data visualization, statistics sports analytics and general application of probability theory.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan
 - [tanav2202/Stats-and-ML](https://github.com/tanav2202/Stats-and-ML) - A collection of code I write for Stats and Ml and my kaggle notebooks
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
-- [Garima13a/Automatic-Image-Captioning](https://github.com/Garima13a/Automatic-Image-Captioning) - In this project, I have created a neural network architecture to automatically generate captions from images.  After using the Microsoft Common Objects in COntext (MS COCO) dataset to train my network, I have tested my network on novel images!
-- [codebasics/deep-learning-keras-tf-tutorial](https://github.com/codebasics/deep-learning-keras-tf-tutorial) - Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning tutorial series. Learn deep learning from scratch. Deep learning series for beginners. Tensorflow tutorials, tensorflow 2.0 tutorial. deep learning tutorial python.
+- [Garima13a/Automatic-Image-Captioning](https://github.com/Garima13a/Automatic-Image-Captioning) - In this project, I have created a neural network architecture to automatically generate captions from images.  After using the Microsoft Common Objects in COntext (MS COCO) dataset to train my network
+- [codebasics/deep-learning-keras-tf-tutorial](https://github.com/codebasics/deep-learning-keras-tf-tutorial) - Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning tutorial series. Learn deep learning from scratch. Deep learning series for beginners. Tensorflow tuto
 - [towardsai/tutorials](https://github.com/towardsai/tutorials) - AI-related tutorials. Access any of them for free → https://towardsai.net/editorial
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [hhhrrrttt222111/DS_and_ML_projects](https://github.com/hhhrrrttt222111/DS_and_ML_projects) - Data Science & Machine Learning projects and tutorials in python from beginner to advanced level.
@@ -115,7 +116,6 @@
 - [tanav2202/dbms_database](https://github.com/tanav2202/dbms_database) - SQL Queries Used for College DBMS project
 - [umgbhalla/flutter-demo](https://github.com/umgbhalla/flutter-demo) - 
 - [umgbhalla/design](https://github.com/umgbhalla/design) - dumping my figma exports
-- [tanav2202/global](https://github.com/tanav2202/global) - HTML5 website template
 - [tanav2202/dotstow](https://github.com/tanav2202/dotstow) - 
 - [tanav2202/starred](https://github.com/tanav2202/starred) - Github stars compiled using GitHub Actions
 - [tanav2202/tanav2202](https://github.com/tanav2202/tanav2202) - readme for github
@@ -148,7 +148,7 @@
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
-- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 - [quandl/quandl-python](https://github.com/quandl/quandl-python) - 
 - [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -159,7 +159,7 @@
 - [ij007/PythonLearn](https://github.com/ij007/PythonLearn) - Learning Python from scratch
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [suraj-singh12/Project-SearchEverywhere](https://github.com/suraj-singh12/Project-SearchEverywhere) - A tool to fetch you exactly the information you are looking for, from a bunch of files.
-- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IT-CS-ECE-2024Batch/Numerical-Methods) - 
 - [FahadulShadhin/Sorting-Algorithms-Visualizer](https://github.com/FahadulShadhin/Sorting-Algorithms-Visualizer) - A python application to visualize sorting algorithms
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
@@ -189,7 +189,6 @@
 
 ## TypeScript 
 
-- [camas/reddit-search](https://github.com/camas/reddit-search) - Search reddit using the pushshift.io api
 - [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
 
 ## Vim script 
