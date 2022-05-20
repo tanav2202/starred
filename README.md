@@ -146,6 +146,7 @@
 
 ## Python 
 
+- [sdv-dev/CTGAN](https://github.com/sdv-dev/CTGAN) - Conditional GAN for generating synthetic tabular data.
 - [kshgrk/Article-Analysis-NLP](https://github.com/kshgrk/Article-Analysis-NLP) - 
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [dashayushman/TAC-GAN](https://github.com/dashayushman/TAC-GAN) - A Tensorflow implementation of the Text Conditioned Auxiliary Classifier Generative Adversarial Network for Generating Images from text descriptions (https://arxiv.org/abs/1703.06412)
