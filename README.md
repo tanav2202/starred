@@ -70,6 +70,7 @@
 
 ## Jupyter Notebook 
 
+- [codebasics/py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
 - [hackassin/Brain-MRI-Style-Transfer-With-GAN](https://github.com/hackassin/Brain-MRI-Style-Transfer-With-GAN) - A capstone project dedicated to leveraging Style GAN (Generative Adversarial Network) to generate Brain MRI images of different contrasts
 - [bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1
 - [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) - 🙌Kart of 210+ projects based on machine learning, deep learning, computer vision, natural language processing and all. Show your support by ✨ this repository.
