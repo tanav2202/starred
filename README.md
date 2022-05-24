@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [mrlibw/ControlGAN](https://github.com/mrlibw/ControlGAN) - Pytorch implementation for Controllable Text-to-Image Generation.
 - [sdv-dev/CTGAN](https://github.com/sdv-dev/CTGAN) - Conditional GAN for generating synthetic tabular data.
 - [kshgrk/Article-Analysis-NLP](https://github.com/kshgrk/Article-Analysis-NLP) - 
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
