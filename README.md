@@ -117,6 +117,7 @@
 
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [tanav2202/dbms_database](https://github.com/tanav2202/dbms_database) - SQL Queries Used for College DBMS project
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [umgbhalla/flutter-demo](https://github.com/umgbhalla/flutter-demo) - 
 - [umgbhalla/design](https://github.com/umgbhalla/design) - dumping my figma exports
 - [tanav2202/dotstow](https://github.com/tanav2202/dotstow) - 
@@ -152,7 +153,6 @@
 - [kshgrk/Article-Analysis-NLP](https://github.com/kshgrk/Article-Analysis-NLP) - 
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [dashayushman/TAC-GAN](https://github.com/dashayushman/TAC-GAN) - A Tensorflow implementation of the Text Conditioned Auxiliary Classifier Generative Adversarial Network for Generating Images from text descriptions (https://arxiv.org/abs/1703.06412)
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
