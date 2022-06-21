@@ -115,6 +115,7 @@
 
 ## Others 
 
+- [himahuja/Research-Internships-for-Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates) - List of Research Internships for Undergraduate Students
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [tanav2202/dbms_database](https://github.com/tanav2202/dbms_database) - SQL Queries Used for College DBMS project
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
