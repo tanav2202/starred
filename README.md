@@ -119,7 +119,6 @@
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [tanav2202/dbms_database](https://github.com/tanav2202/dbms_database) - SQL Queries Used for College DBMS project
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [umgbhalla/flutter-demo](https://github.com/umgbhalla/flutter-demo) - 
 - [umgbhalla/design](https://github.com/umgbhalla/design) - dumping my figma exports
 - [tanav2202/dotstow](https://github.com/tanav2202/dotstow) - 
 - [tanav2202/starred](https://github.com/tanav2202/starred) - Github stars compiled using GitHub Actions
@@ -165,7 +164,6 @@
 - [tanav2202/based-cs](https://github.com/tanav2202/based-cs) - 
 - [tanav2202/BegineerPythonProjects](https://github.com/tanav2202/BegineerPythonProjects) - 
 - [tanav2202/Numerical-Methods](https://github.com/tanav2202/Numerical-Methods) - 
-- [ij007/PythonLearn](https://github.com/ij007/PythonLearn) - Learning Python from scratch
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [suraj-singh12/Project-SearchEverywhere](https://github.com/suraj-singh12/Project-SearchEverywhere) - A tool to fetch you exactly the information you are looking for, from a bunch of files.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
