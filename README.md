@@ -77,7 +77,7 @@
 - [sanskar-hasija/COVID-19_Detection](https://github.com/sanskar-hasija/COVID-19_Detection) - Official Repository for A Novel Approach for detecting Normal, COVID-19 and Pneumonia patient using only binary classifications from chest CT-Scans Paper
 - [FreeBirdsCrew/AI_ChatBot_Python](https://github.com/FreeBirdsCrew/AI_ChatBot_Python) - AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side TFLearn
 - [edualgo/Grokking-Machine-Learning](https://github.com/edualgo/Grokking-Machine-Learning) - This repo aims to contain different machine learning use cases along with the descriptions to the model architectures
-- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
 - [cryptonhq/btc_tweets_analysis](https://github.com/cryptonhq/btc_tweets_analysis) - Sentiment analysis of tweets related to **BITCOIN** on order to understand market sentiment and to use this to increase the accuracy of future predictions made using previous BTC data [here]()
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython,
