@@ -148,6 +148,7 @@
 
 ## Python 
 
+- [AgaMiko/debiasing-effect-of-gans](https://github.com/AgaMiko/debiasing-effect-of-gans) - 
 - [mrlibw/ControlGAN](https://github.com/mrlibw/ControlGAN) - Pytorch implementation for Controllable Text-to-Image Generation.
 - [sdv-dev/CTGAN](https://github.com/sdv-dev/CTGAN) - Conditional GAN for generating synthetic tabular data.
 - [kshgrk/Article-Analysis-NLP](https://github.com/kshgrk/Article-Analysis-NLP) - 
