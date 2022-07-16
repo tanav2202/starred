@@ -84,7 +84,6 @@
 - [edualgo/Grokking-Machine-Learning](https://github.com/edualgo/Grokking-Machine-Learning) - This repo aims to contain different machine learning use cases along with the descriptions to the model architectures
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
 - [cryptonhq/btc_tweets_analysis](https://github.com/cryptonhq/btc_tweets_analysis) - Sentiment analysis of tweets related to **BITCOIN** on order to understand market sentiment and to use this to increase the accuracy of future predictions made using previous BTC data [here]()
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython,
 - [cryptonhq/btc_value_estimation](https://github.com/cryptonhq/btc_value_estimation) - Bitcoin value forecast using twitter sentiment analysis and previous data.
 - [parulnith/Face-Detection-in-Python-using-OpenCV](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV) - Face Detection with Python using OpenCV
@@ -153,6 +152,7 @@
 
 ## Python 
 
+- [domus123/gpopy](https://github.com/domus123/gpopy) - Genetic algorithm Parameter Optimizer Python (GPOPY)
 - [AgaMiko/debiasing-effect-of-gans](https://github.com/AgaMiko/debiasing-effect-of-gans) - 
 - [mrlibw/ControlGAN](https://github.com/mrlibw/ControlGAN) - Pytorch implementation for Controllable Text-to-Image Generation.
 - [sdv-dev/CTGAN](https://github.com/sdv-dev/CTGAN) - Conditional GAN for generating synthetic tabular data.
@@ -160,6 +160,7 @@
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [dashayushman/TAC-GAN](https://github.com/dashayushman/TAC-GAN) - A Tensorflow implementation of the Text Conditioned Auxiliary Classifier Generative Adversarial Network for Generating Images from text descriptions (https://arxiv.org/abs/1703.06412)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 - [quandl/quandl-python](https://github.com/quandl/quandl-python) - 
@@ -185,7 +186,6 @@
 
 ## Shell 
 
-- [umgbhalla/docker-elk](https://github.com/umgbhalla/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [umgbhalla/dotstow](https://github.com/umgbhalla/dotstow) - dotfiles managed with stow
 - [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
 - [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config) - Scripts and notes for custom pulseaudio configuration
