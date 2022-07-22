@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Awk](#awk)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -25,10 +24,6 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
-
-## Awk 
-
-- [cheriangeorge/System-Commands-course](https://github.com/cheriangeorge/System-Commands-course) - 
 
 ## C 
 
