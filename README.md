@@ -40,7 +40,6 @@
 - [kshgrk/linux_dotfiles](https://github.com/kshgrk/linux_dotfiles) - 
 - [tanav2202/sunderbans-website](https://github.com/tanav2202/sunderbans-website) - 
 - [tanav2202/calculator](https://github.com/tanav2202/calculator) - 
-- [tanav2202/global](https://github.com/tanav2202/global) - HTML5 website template
 - [tanav2202/PhpStore](https://github.com/tanav2202/PhpStore) - 
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 
