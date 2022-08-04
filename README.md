@@ -69,6 +69,7 @@
 
 ## Jupyter Notebook 
 
+- [arnabbiswas1/kaggle_pipeline_tps_aug_22](https://github.com/arnabbiswas1/kaggle_pipeline_tps_aug_22) - Kaggle Pipeline for tabular data competitions
 - [llSourcell/Gaussian_Mixture_Models](https://github.com/llSourcell/Gaussian_Mixture_Models) - This is the code for "Gaussian Mixture Models - The Math of Intelligence (Week 7)" By Siraj Raval on Youtube
 - [codebasics/py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
 - [hackassin/Brain-MRI-Style-Transfer-With-GAN](https://github.com/hackassin/Brain-MRI-Style-Transfer-With-GAN) - A capstone project dedicated to leveraging Style GAN (Generative Adversarial Network) to generate Brain MRI images of different contrasts
