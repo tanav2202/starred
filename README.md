@@ -149,6 +149,7 @@
 
 ## Python 
 
+- [leonidk/direct_gmm](https://github.com/leonidk/direct_gmm) - Project code for "Direct Fitting of Gaussian Mixture Models"
 - [domus123/gpopy](https://github.com/domus123/gpopy) - Genetic algorithm Parameter Optimizer Python (GPOPY)
 - [AgaMiko/debiasing-effect-of-gans](https://github.com/AgaMiko/debiasing-effect-of-gans) - 
 - [mrlibw/ControlGAN](https://github.com/mrlibw/ControlGAN) - Pytorch implementation for Controllable Text-to-Image Generation.
