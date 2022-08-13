@@ -69,6 +69,8 @@
 
 ## Jupyter Notebook 
 
+- [HeroKillerEver/coursera-deep-learning](https://github.com/HeroKillerEver/coursera-deep-learning) - Solutions to all quiz and all the programming assignments!!!
+- [amanchadha/coursera-gan-specialization](https://github.com/amanchadha/coursera-gan-specialization) - Programming assignments and quizzes from all courses within the GANs specialization offered by deeplearning.ai
 - [arnabbiswas1/kaggle_pipeline_tps_aug_22](https://github.com/arnabbiswas1/kaggle_pipeline_tps_aug_22) - Kaggle Pipeline for tabular data competitions
 - [llSourcell/Gaussian_Mixture_Models](https://github.com/llSourcell/Gaussian_Mixture_Models) - This is the code for "Gaussian Mixture Models - The Math of Intelligence (Week 7)" By Siraj Raval on Youtube
 - [codebasics/py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
