@@ -53,6 +53,7 @@
 
 ## HTML 
 
+- [hemansnation/Data-Science-ML-Full-Stack-2022](https://github.com/hemansnation/Data-Science-ML-Full-Stack-2022) - Everything you need to know for data science.
 - [tanav2202/books](https://github.com/tanav2202/books) - Website about my books
 - [tanav2202/walls](https://github.com/tanav2202/walls) - 
 - [tanav2202/tanav2202.github.io](https://github.com/tanav2202/tanav2202.github.io) - My Portfolio Website
