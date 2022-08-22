@@ -153,6 +153,7 @@
 
 ## Python 
 
+- [kshgrk/people-crossing-alerting](https://github.com/kshgrk/people-crossing-alerting) - 
 - [llSourcell/Pokemon_GAN](https://github.com/llSourcell/Pokemon_GAN) - This is the code for "Generating Pokemon with a Generative Adversarial Network" by Siraj Raval on Youtube
 - [leonidk/direct_gmm](https://github.com/leonidk/direct_gmm) - Project code for "Direct Fitting of Gaussian Mixture Models"
 - [domus123/gpopy](https://github.com/domus123/gpopy) - Genetic algorithm Parameter Optimizer Python (GPOPY)
