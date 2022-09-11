@@ -191,6 +191,7 @@
 
 ## Shell 
 
+- [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [umgbhalla/dotstow](https://github.com/umgbhalla/dotstow) - dotfiles managed with stow
 - [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
 - [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config) - Scripts and notes for custom pulseaudio configuration
