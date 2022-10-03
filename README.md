@@ -10,6 +10,7 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Go](#go)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -50,6 +51,10 @@
 ## Dockerfile 
 
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
+
+## Go 
+
+- [JefeDavis/Resume-Operator](https://github.com/JefeDavis/Resume-Operator) - Kubernetes operator to build & host my resume, powered by operator-builder
 
 ## HTML 
 
@@ -154,6 +159,7 @@
 
 ## Python 
 
+- [tanav2202/Tabular-Data-Generation](https://github.com/tanav2202/Tabular-Data-Generation) - Synthetic Data Generation End to End
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [smahesh29/Gender-and-Age-Detection](https://github.com/smahesh29/Gender-and-Age-Detection) - A Python project which can detect gender and age using OpenCV of the person (face) in a picture or through webcam.
