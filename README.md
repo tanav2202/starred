@@ -75,6 +75,7 @@
 
 ## Jupyter Notebook 
 
+- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [HeroKillerEver/coursera-deep-learning](https://github.com/HeroKillerEver/coursera-deep-learning) - Solutions to all quiz and all the programming assignments!!!
 - [amanchadha/coursera-gan-specialization](https://github.com/amanchadha/coursera-gan-specialization) - Programming assignments and quizzes from all courses within the GANs specialization offered by deeplearning.ai
 - [arnabbiswas1/kaggle_pipeline_tps_aug_22](https://github.com/arnabbiswas1/kaggle_pipeline_tps_aug_22) - Kaggle Pipeline for tabular data competitions
