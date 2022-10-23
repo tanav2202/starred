@@ -21,6 +21,7 @@
 - [PLpgSQL](#plpgsql)
 - [Python](#python)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -43,7 +44,6 @@
 - [tanav2202/sunderbans-website](https://github.com/tanav2202/sunderbans-website) - 
 - [tanav2202/calculator](https://github.com/tanav2202/calculator) - 
 - [tanav2202/PhpStore](https://github.com/tanav2202/PhpStore) - 
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 
 ## Dart 
 
@@ -199,6 +199,10 @@
 
 - [cryptonhq/tweet_json_modifier](https://github.com/cryptonhq/tweet_json_modifier) - 
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
+
+## SCSS 
+
+- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 
 ## Shell 
 
