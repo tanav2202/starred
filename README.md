@@ -126,6 +126,7 @@
 
 ## Others 
 
+- [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) - In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
 - [subinium/kaggle-badge](https://github.com/subinium/kaggle-badge) - Add dynamically generated Kaggle Tier & Medals on your readme.
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.
 - [himahuja/Research-Internships-for-Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates) - List of Research Internships for Undergraduate Students
