@@ -162,6 +162,7 @@
 
 ## Python 
 
+- [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [smahesh29/Gender-and-Age-Detection](https://github.com/smahesh29/Gender-and-Age-Detection) - A Python project which can detect gender and age using OpenCV of the person (face) in a picture or through webcam.
