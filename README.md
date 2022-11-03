@@ -88,7 +88,7 @@
 - [sanskar-hasija/COVID-19_Detection](https://github.com/sanskar-hasija/COVID-19_Detection) - Official Repository for A Novel Approach for detecting Normal, COVID-19 and Pneumonia patient using only binary classifications from chest CT-Scans Paper
 - [FreeBirdsCrew/AI_ChatBot_Python](https://github.com/FreeBirdsCrew/AI_ChatBot_Python) - AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side TFLearn
 - [edualgo/Grokking-Machine-Learning](https://github.com/edualgo/Grokking-Machine-Learning) - This repo aims to contain different machine learning use cases along with the descriptions to the model architectures
-- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with machine learning.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
 - [cryptonhq/btc_tweets_analysis](https://github.com/cryptonhq/btc_tweets_analysis) - Sentiment analysis of tweets related to **BITCOIN** on order to understand market sentiment and to use this to increase the accuracy of future predictions made using previous BTC data [here]()
 - [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython,
 - [cryptonhq/btc_value_estimation](https://github.com/cryptonhq/btc_value_estimation) - Bitcoin value forecast using twitter sentiment analysis and previous data.
@@ -128,7 +128,7 @@
 
 - [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) - In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
 - [subinium/kaggle-badge](https://github.com/subinium/kaggle-badge) - Add dynamically generated Kaggle Tier & Medals on your readme.
-- [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.
+- [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
 - [himahuja/Research-Internships-for-Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates) - List of Research Internships for Undergraduate Students
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [tanav2202/dbms_database](https://github.com/tanav2202/dbms_database) - SQL Queries Used for College DBMS project
