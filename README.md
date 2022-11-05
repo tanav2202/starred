@@ -67,6 +67,7 @@
 
 ## JavaScript 
 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [PranjalVyas1507/Neuro](https://github.com/PranjalVyas1507/Neuro) - Neuro is an electron based pc app, that provides a platform for AI practitioners to develop and maintain neural networks according to their requirements, of whichever framework they prefer.
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
@@ -208,6 +209,7 @@
 
 ## Shell 
 
+- [patrkris/pisk](https://github.com/patrkris/pisk) - PostgreSQL sessions in Vim
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [umgbhalla/dotstow](https://github.com/umgbhalla/dotstow) - dotfiles managed with stow
 - [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
