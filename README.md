@@ -78,6 +78,7 @@
 
 ## Jupyter Notebook 
 
+- [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [HeroKillerEver/coursera-deep-learning](https://github.com/HeroKillerEver/coursera-deep-learning) - Solutions to all quiz and all the programming assignments!!!
 - [amanchadha/coursera-gan-specialization](https://github.com/amanchadha/coursera-gan-specialization) - Programming assignments and quizzes from all courses within the GANs specialization offered by deeplearning.ai
