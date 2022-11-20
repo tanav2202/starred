@@ -201,6 +201,7 @@
 
 ## Rust 
 
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [cryptonhq/tweet_json_modifier](https://github.com/cryptonhq/tweet_json_modifier) - 
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 
