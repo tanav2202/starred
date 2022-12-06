@@ -59,6 +59,7 @@
 
 ## HTML 
 
+- [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [hemansnation/Data-Science-ML-Full-Stack-2022](https://github.com/hemansnation/Data-Science-ML-Full-Stack-2022) - Everything you need to know for data science.
 - [tanav2202/books](https://github.com/tanav2202/books) - Website about my books
