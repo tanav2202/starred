@@ -69,6 +69,7 @@
 
 ## JavaScript 
 
+- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [PranjalVyas1507/Neuro](https://github.com/PranjalVyas1507/Neuro) - Neuro is an electron based pc app, that provides a platform for AI practitioners to develop and maintain neural networks according to their requirements, of whichever framework they prefer.
 - [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
