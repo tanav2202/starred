@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [C](#c)
 - [C++](#c++)
 - [CSS](#css)
 - [Dart](#dart)
@@ -14,22 +13,15 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Lua](#lua)
 - [Makefile](#makefile)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
 - [Python](#python)
 - [Rust](#rust)
-- [SCSS](#scss)
 - [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Vim Script](#vim-script)
-
-## C 
-
-- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 
 ## C++ 
 
@@ -40,7 +32,6 @@
 
 - [tanav2202/Tabular-Data-Generation](https://github.com/tanav2202/Tabular-Data-Generation) - Synthetic Data Generation End to End
 - [omarsar/nlp_overview](https://github.com/omarsar/nlp_overview) - Overview of Modern Deep Learning Techniques Applied to Natural Language Processing
-- [kshgrk/linux_dotfiles](https://github.com/kshgrk/linux_dotfiles) - 
 - [tanav2202/sunderbans-website](https://github.com/tanav2202/sunderbans-website) - 
 - [tanav2202/calculator](https://github.com/tanav2202/calculator) - 
 - [tanav2202/PhpStore](https://github.com/tanav2202/PhpStore) - 
@@ -71,15 +62,11 @@
 
 - [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - A browser extension that augments your ChatGPT prompts with web results.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [PranjalVyas1507/Neuro](https://github.com/PranjalVyas1507/Neuro) - Neuro is an electron based pc app, that provides a platform for AI practitioners to develop and maintain neural networks according to their requirements, of whichever framework they prefer.
-- [wowthemesnet/mediumish-theme-jekyll](https://github.com/wowthemesnet/mediumish-theme-jekyll) - Jekyll Template - Mediumish
-- [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [chec/commerce.js](https://github.com/chec/commerce.js) - Open source, JS eCommerce SDK for building headless, Jamstack applications. Build custom storefronts, carts, and checkouts in any frontend framework, platform, or device. Integrates with Stripe, Squar
-- [tholman/elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 
 ## Jupyter Notebook 
 
+- [tanav2202/Kaggle-Notebooks](https://github.com/tanav2202/Kaggle-Notebooks) - A list of Notebooks created by me on Kaggle
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
@@ -97,11 +84,6 @@
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
 - [cryptonhq/btc_tweets_analysis](https://github.com/cryptonhq/btc_tweets_analysis) - Sentiment analysis of tweets related to **BITCOIN** on order to understand market sentiment and to use this to increase the accuracy of future predictions made using previous BTC data [here]()
 - [DerwenAI/kglab](https://github.com/DerwenAI/kglab) - Graph Data Science: an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries – atop Pandas, NetworkX, RAPIDS, RDFlib, pySHACL, PyVis, morph-kgc, pslpython,
-- [cryptonhq/btc_value_estimation](https://github.com/cryptonhq/btc_value_estimation) - Bitcoin value forecast using twitter sentiment analysis and previous data.
-- [parulnith/Face-Detection-in-Python-using-OpenCV](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV) - Face Detection with Python using OpenCV
-- [kb22/Heart-Disease-Prediction](https://github.com/kb22/Heart-Disease-Prediction) - The project involves training a machine learning model (K Neighbors Classifier) to predict whether someone is suffering from a heart disease with 87% accuracy.
-- [parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK) - Building a Simple Chatbot from Scratch in Python (using NLTK)
-- [g-shreekant/Sales-Prediction-of-Walmart-using-Machine-Learning](https://github.com/g-shreekant/Sales-Prediction-of-Walmart-using-Machine-Learning) - The purpose of this project is to develop a predictive model and find out the sales of each product at a given Walmart store.
 - [tuangauss/DataScienceProjects](https://github.com/tuangauss/DataScienceProjects) - The code repository for projects and tutorials in R and Python that covers a variety of topics in data visualization, statistics sports analytics and general application of probability theory.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan,
@@ -109,22 +91,10 @@
 - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [Garima13a/Automatic-Image-Captioning](https://github.com/Garima13a/Automatic-Image-Captioning) - In this project, I have created a neural network architecture to automatically generate captions from images.  After using the Microsoft Common Objects in COntext (MS COCO) dataset to train my network
 - [codebasics/deep-learning-keras-tf-tutorial](https://github.com/codebasics/deep-learning-keras-tf-tutorial) - Learn deep learning with tensorflow2.0, keras and python through this comprehensive deep learning tutorial series. Learn deep learning from scratch. Deep learning series for beginners. Tensorflow tuto
-- [towardsai/tutorials](https://github.com/towardsai/tutorials) - AI-related tutorials. Access any of them for free → https://towardsai.net/editorial
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) - 10 Weeks, 20 Lessons, Data Science for All!
 - [hhhrrrttt222111/DS_and_ML_projects](https://github.com/hhhrrrttt222111/DS_and_ML_projects) - Data Science & Machine Learning projects and tutorials in python from beginner to advanced level.
-- [kshgrk/mpl_tutorial](https://github.com/kshgrk/mpl_tutorial) - Scipy 2019 Tutorial
 - [enthought/Numpy-Tutorial-SciPyConf-2021](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2021) - Public GitHub repo for SciPy 2021 tutorial (Introduction to Numerical Computing With NumPy)
 - [AllenDowney/ThinkBayes2](https://github.com/AllenDowney/ThinkBayes2) - Text and code for the forthcoming second edition of Think Bayes, by Allen Downey.
-- [Piyal-Banik/House-Price-Prediction](https://github.com/Piyal-Banik/House-Price-Prediction) - Built Multiple Linear Regression Model on the housing price dataset and acheived an accuracy of 82.23%
-
-## Lua 
-
-- [tiagovla/.dotfiles](https://github.com/tiagovla/.dotfiles) - 
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
-- [craftzdog/dotfiles-public](https://github.com/craftzdog/dotfiles-public) - My personal dotfiles
-- [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch) - 📚 A Neovim config designed from scratch to be understandable
-- [Theory-of-Everything/nii-nvim](https://github.com/Theory-of-Everything/nii-nvim) - A minimal neovim configuration
 
 ## Makefile 
 
@@ -139,24 +109,19 @@
 - [nashory/gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) - Curated list of awesome GAN applications and demo
 - [tanav2202/dbms_database](https://github.com/tanav2202/dbms_database) - SQL Queries Used for College DBMS project
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [umgbhalla/design](https://github.com/umgbhalla/design) - dumping my figma exports
 - [tanav2202/dotstow](https://github.com/tanav2202/dotstow) - 
 - [tanav2202/starred](https://github.com/tanav2202/starred) - Github stars compiled using GitHub Actions
 - [tanav2202/tanav2202](https://github.com/tanav2202/tanav2202) - readme for github
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [louisfb01/best_AI_papers_2021](https://github.com/louisfb01/best_AI_papers_2021) - A  curated list of the latest breakthroughs in AI (in 2021) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [dformoso/machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
 - [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - ✅  Curated list of resources for college students
-- [neos-20/ml-resources-projects](https://github.com/neos-20/ml-resources-projects) - 
 - [neos-20/Neos-Talks](https://github.com/neos-20/Neos-Talks) - An Podcast filled with essence of what we learnt and explored in our 1st year of college. Filled with basic knowledge of different technical fields, tools and terms.
 - [neos-20/node-blog](https://github.com/neos-20/node-blog) - 
 - [neos-20/learn-django-server](https://github.com/neos-20/learn-django-server) - 
 - [neos-20/.github](https://github.com/neos-20/.github) - About
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [anshumanv/awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) - A curated list of everything related to anime.
-- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 
 ## PHP 
 
@@ -168,6 +133,7 @@
 
 ## Python 
 
+- [tanav2202/Tweet-Profanity](https://github.com/tanav2202/Tweet-Profanity) - 
 - [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
@@ -181,15 +147,12 @@
 - [AgaMiko/debiasing-effect-of-gans](https://github.com/AgaMiko/debiasing-effect-of-gans) - 
 - [mrlibw/ControlGAN](https://github.com/mrlibw/ControlGAN) - Pytorch implementation for Controllable Text-to-Image Generation.
 - [sdv-dev/CTGAN](https://github.com/sdv-dev/CTGAN) - Conditional GAN for generating synthetic tabular data.
-- [kshgrk/Article-Analysis-NLP](https://github.com/kshgrk/Article-Analysis-NLP) - 
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [dashayushman/TAC-GAN](https://github.com/dashayushman/TAC-GAN) - A Tensorflow implementation of the Text Conditioned Auxiliary Classifier Generative Adversarial Network for Generating Images from text descriptions (https://arxiv.org/abs/1703.06412)
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - NeMo: a toolkit for conversational AI
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
-- [quandl/quandl-python](https://github.com/quandl/quandl-python) - 
-- [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [tanav2202/based-cs](https://github.com/tanav2202/based-cs) - 
@@ -198,51 +161,28 @@
 - [floodsung/Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 - [suraj-singh12/Project-SearchEverywhere](https://github.com/suraj-singh12/Project-SearchEverywhere) - A tool to fetch you exactly the information you are looking for, from a bunch of files.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
-- [IT-CS-ECE-2024Batch/Numerical-Methods](https://github.com/IT-CS-ECE-2024Batch/Numerical-Methods) - 
-- [FahadulShadhin/Sorting-Algorithms-Visualizer](https://github.com/FahadulShadhin/Sorting-Algorithms-Visualizer) - A python application to visualize sorting algorithms
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## Rust 
 
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [cryptonhq/tweet_json_modifier](https://github.com/cryptonhq/tweet_json_modifier) - 
-- [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
-
-## SCSS 
-
-- [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 
 ## Shell 
 
 - [patrkris/pisk](https://github.com/patrkris/pisk) - PostgreSQL sessions in Vim
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [umgbhalla/dotstow](https://github.com/umgbhalla/dotstow) - dotfiles managed with stow
-- [kshgrk/archInstallScripts](https://github.com/kshgrk/archInstallScripts) - 
-- [toadjaune/pulseaudio-config](https://github.com/toadjaune/pulseaudio-config) - Scripts and notes for custom pulseaudio configuration
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
-- [hxyro/rcli](https://github.com/hxyro/rcli) - Browse and download images from reddit.
-- [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
-- [Chad-cli/pcli](https://github.com/Chad-cli/pcli) - 
 
 ## TeX 
 
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
-- [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [AllenDowney/ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
 - [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) - A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.
 
 ## TypeScript 
 
 - [NuroDev/nuro.dev](https://github.com/NuroDev/nuro.dev) - 🌿  Personal Portfolio
-- [justadudewhohacks/face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js
-
-## Vim Script 
-
-- [hxyro/doom-one.vim](https://github.com/hxyro/doom-one.vim) - A dark colorschme for vim, ported from doom-emacs' doom-one theme.
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [kwsp/halcyon-neovim](https://github.com/kwsp/halcyon-neovim) - A minimal, dark blue theme for NeoVim
 
 
 ## License
