@@ -102,6 +102,7 @@
 
 ## Others 
 
+- [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning
 - [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) - In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
 - [subinium/kaggle-badge](https://github.com/subinium/kaggle-badge) - Add dynamically generated Kaggle Tier & Medals on your readme.
 - [dair-ai/ML-Course-Notes](https://github.com/dair-ai/ML-Course-Notes) - 🎓 Sharing machine learning course / lecture notes.
