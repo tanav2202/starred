@@ -167,6 +167,7 @@
 
 ## Rust 
 
+- [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [cryptonhq/tweet_json_modifier](https://github.com/cryptonhq/tweet_json_modifier) - 
 
