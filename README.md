@@ -20,6 +20,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Stata](#stata)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 
@@ -66,6 +67,7 @@
 
 ## Jupyter Notebook 
 
+- [roboflow/notebooks](https://github.com/roboflow/notebooks) - Set of Jupyter Notebooks linked to Roboflow Blogpost and used in our YouTube videos.
 - [tanav2202/Kaggle-Notebooks](https://github.com/tanav2202/Kaggle-Notebooks) - A list of Notebooks created by me on Kaggle
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
@@ -102,6 +104,7 @@
 
 ## Others 
 
+- [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
 - [grananqvist/Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - Quant/Algorithm trading resources with an emphasis on Machine Learning
 - [ahkarami/Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production) - In this repository, I will share some useful notes and references about deploying deep learning-based models in production.
 - [subinium/kaggle-badge](https://github.com/subinium/kaggle-badge) - Add dynamically generated Kaggle Tier & Medals on your readme.
@@ -177,6 +180,10 @@
 - [patrkris/pisk](https://github.com/patrkris/pisk) - PostgreSQL sessions in Vim
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
+
+## Stata 
+
+- [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.
 
 ## TeX 
 
