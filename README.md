@@ -137,6 +137,7 @@
 
 ## Python 
 
+- [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet) - PyTorch implementation of TabNet paper : https://arxiv.org/pdf/1908.07442.pdf
 - [tanav2202/Tweet-Profanity](https://github.com/tanav2202/Tweet-Profanity) - 
