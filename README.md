@@ -142,7 +142,6 @@
 - [dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet) - PyTorch implementation of TabNet paper : https://arxiv.org/pdf/1908.07442.pdf
 - [tanav2202/Tweet-Profanity](https://github.com/tanav2202/Tweet-Profanity) - 
 - [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [smahesh29/Gender-and-Age-Detection](https://github.com/smahesh29/Gender-and-Age-Detection) - A Python project which can detect gender and age using OpenCV of the person (face) in a picture or through webcam.
@@ -172,6 +171,7 @@
 
 ## Rust 
 
+- [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
 - [Skallwar/suckit](https://github.com/Skallwar/suckit) - Suck the InTernet
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [cryptonhq/tweet_json_modifier](https://github.com/cryptonhq/tweet_json_modifier) - 
