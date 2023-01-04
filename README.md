@@ -67,6 +67,7 @@
 
 ## Jupyter Notebook 
 
+- [ashishpatel26/Coursera-Guided-Projects-2021](https://github.com/ashishpatel26/Coursera-Guided-Projects-2021) - Coursera Guided Projects 2021
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Set of Jupyter Notebooks linked to Roboflow Blogpost and used in our YouTube videos.
 - [tanav2202/Kaggle-Notebooks](https://github.com/tanav2202/Kaggle-Notebooks) - A list of Notebooks created by me on Kaggle
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
@@ -137,6 +138,8 @@
 
 ## Python 
 
+- [khanrc/tf.gans-comparison](https://github.com/khanrc/tf.gans-comparison) - Implementations of (theoretical) generative adversarial networks and comparison without cherry-picking
+- [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet) - PyTorch implementation of TabNet paper : https://arxiv.org/pdf/1908.07442.pdf
