@@ -67,6 +67,7 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [ashishpatel26/Coursera-Guided-Projects-2021](https://github.com/ashishpatel26/Coursera-Guided-Projects-2021) - Coursera Guided Projects 2021
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Set of Jupyter Notebooks linked to Roboflow Blogpost and used in our YouTube videos.
 - [tanav2202/Kaggle-Notebooks](https://github.com/tanav2202/Kaggle-Notebooks) - A list of Notebooks created by me on Kaggle
