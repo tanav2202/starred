@@ -53,7 +53,7 @@
 
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
-- [hemansnation/Data-Science-ML-Full-Stack-2022](https://github.com/hemansnation/Data-Science-ML-Full-Stack-2022) - Everything you need to know for data science.
+- [hemansnation/Data-Science-ML-Full-Stack](https://github.com/hemansnation/Data-Science-ML-Full-Stack) - Everything you need to know for data science.
 - [tanav2202/books](https://github.com/tanav2202/books) - Website about my books
 - [tanav2202/walls](https://github.com/tanav2202/walls) - 
 - [tanav2202/tanav2202.github.io](https://github.com/tanav2202/tanav2202.github.io) - My Portfolio Website
@@ -67,6 +67,7 @@
 
 ## Jupyter Notebook 
 
+- [google-research/growneuron](https://github.com/google-research/growneuron) - 
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [ashishpatel26/Coursera-Guided-Projects-2021](https://github.com/ashishpatel26/Coursera-Guided-Projects-2021) - Coursera Guided Projects 2021
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Set of Jupyter Notebooks linked to Roboflow Blogpost and used in our YouTube videos.
