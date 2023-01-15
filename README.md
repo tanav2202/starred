@@ -67,6 +67,7 @@
 
 ## Jupyter Notebook 
 
+- [nuwandavek/talktopapers](https://github.com/nuwandavek/talktopapers) - 
 - [google-research/growneuron](https://github.com/google-research/growneuron) - 
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [ashishpatel26/Coursera-Guided-Projects-2021](https://github.com/ashishpatel26/Coursera-Guided-Projects-2021) - Coursera Guided Projects 2021
