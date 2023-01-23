@@ -143,6 +143,7 @@
 
 ## Python 
 
+- [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [khanrc/tf.gans-comparison](https://github.com/khanrc/tf.gans-comparison) - Implementations of (theoretical) generative adversarial networks and comparison without cherry-picking
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
