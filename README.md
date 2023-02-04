@@ -68,7 +68,6 @@
 
 - [nuwandavek/talktopapers](https://github.com/nuwandavek/talktopapers) - 
 - [google-research/growneuron](https://github.com/google-research/growneuron) - 
-- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [ashishpatel26/Coursera-Guided-Projects-2021](https://github.com/ashishpatel26/Coursera-Guided-Projects-2021) - Coursera Guided Projects 2021
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Set of Jupyter Notebooks linked to Roboflow Blogpost and used in our YouTube videos.
 - [tanav2202/Kaggle-Notebooks](https://github.com/tanav2202/Kaggle-Notebooks) - A list of Notebooks created by me on Kaggle
@@ -145,6 +144,7 @@
 - [cuiziteng/Illumination-Adaptive-Transformer](https://github.com/cuiziteng/Illumination-Adaptive-Transformer) - [BMVC 2022] You Only Need 90K Parameters to Adapt Light: A Light Weight Transformer for Image Enhancement and Exposure Correction.
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [khanrc/tf.gans-comparison](https://github.com/khanrc/tf.gans-comparison) - Implementations of (theoretical) generative adversarial networks and comparison without cherry-picking
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Serverless ML Inference Platform on Kubernetes
