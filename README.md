@@ -65,6 +65,7 @@
 
 ## Jupyter Notebook 
 
+- [tanav2202/A-Study-on-LSTM](https://github.com/tanav2202/A-Study-on-LSTM) - 
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [nuwandavek/talktopapers](https://github.com/nuwandavek/talktopapers) - 
 - [google-research/growneuron](https://github.com/google-research/growneuron) - 
@@ -141,6 +142,7 @@
 
 ## Python 
 
+- [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [cuiziteng/Illumination-Adaptive-Transformer](https://github.com/cuiziteng/Illumination-Adaptive-Transformer) - [BMVC 2022] You Only Need 90K Parameters to Adapt Light: A Light Weight Transformer for Image Enhancement and Exposure Correction.
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
