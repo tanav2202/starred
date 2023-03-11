@@ -66,6 +66,7 @@
 
 ## Jupyter Notebook 
 
+- [lazuxd/medium-scraping](https://github.com/lazuxd/medium-scraping) - Code used to scrape medium
 - [tanav2202/Algo-Trading](https://github.com/tanav2202/Algo-Trading) - 
 - [tanav2202/A-Study-on-LSTM](https://github.com/tanav2202/A-Study-on-LSTM) - 
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
