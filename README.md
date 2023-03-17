@@ -110,6 +110,7 @@
 
 ## Others 
 
+- [Richard88888/awesome-multimodal-in-medical-imaging](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging) - A collection of resources on applications of multi-modal learning in medical imaging.
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
@@ -145,6 +146,12 @@
 
 ## Python 
 
+- [orcax/PGPR](https://github.com/orcax/PGPR) - Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
+- [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
+- [zjunlp/Relphormer](https://github.com/zjunlp/Relphormer) - Code for the paper "Relational Graph Transformer for Knowledge Graph Representation"
+- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
+- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [w86763777/pytorch-gan-metrics](https://github.com/w86763777/pytorch-gan-metrics) - Pytorch implementation of common GAN metrics
 - [dorarad/gansformer](https://github.com/dorarad/gansformer) - Generative Adversarial Transformers
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [cuiziteng/Illumination-Adaptive-Transformer](https://github.com/cuiziteng/Illumination-Adaptive-Transformer) - [BMVC 2022] You Only Need 90K Parameters to Adapt Light: A Light Weight Transformer for Image Enhancement and Exposure Correction. SOTA for low light enhancement, 0.004 seconds try this for pre-proces
