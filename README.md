@@ -53,7 +53,6 @@
 
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
-- [hemansnation/Data-Science-ML-Full-Stack](https://github.com/hemansnation/Data-Science-ML-Full-Stack) - Everything you need to know for data science.
 - [tanav2202/books](https://github.com/tanav2202/books) - Website about my books
 - [tanav2202/walls](https://github.com/tanav2202/walls) - 
 - [tanav2202/tanav2202.github.io](https://github.com/tanav2202/tanav2202.github.io) - My Portfolio Website
@@ -66,6 +65,7 @@
 
 ## Jupyter Notebook 
 
+- [SamanthaBiegel/ActiveWeaSuL](https://github.com/SamanthaBiegel/ActiveWeaSuL) - 
 - [lazuxd/medium-scraping](https://github.com/lazuxd/medium-scraping) - Code used to scrape medium
 - [tanav2202/Algo-Trading](https://github.com/tanav2202/Algo-Trading) - 
 - [tanav2202/A-Study-on-LSTM](https://github.com/tanav2202/A-Study-on-LSTM) - 
@@ -78,6 +78,7 @@
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
+- [hemansnation/Data-Science-ML-Full-Stack](https://github.com/hemansnation/Data-Science-ML-Full-Stack) - Everything you need to know for data science.
 - [HeroKillerEver/coursera-deep-learning](https://github.com/HeroKillerEver/coursera-deep-learning) - Solutions to all quiz and all the programming assignments!!!
 - [amanchadha/coursera-gan-specialization](https://github.com/amanchadha/coursera-gan-specialization) - Programming assignments and quizzes from all courses within the GANs specialization offered by deeplearning.ai
 - [arnabbiswas1/kaggle_pipeline_tps_aug_22](https://github.com/arnabbiswas1/kaggle_pipeline_tps_aug_22) - Kaggle Pipeline for tabular data competitions
@@ -110,6 +111,7 @@
 
 ## Others 
 
+- [michael-aloys/awesome-weak-supervision](https://github.com/michael-aloys/awesome-weak-supervision) - 
 - [Richard88888/awesome-multimodal-in-medical-imaging](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging) - A collection of resources on applications of multi-modal learning in medical imaging.
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
@@ -146,6 +148,8 @@
 
 ## Python 
 
+- [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) - Generate textual and conversational datasets with LLMs.
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [orcax/PGPR](https://github.com/orcax/PGPR) - Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
 - [zjunlp/Relphormer](https://github.com/zjunlp/Relphormer) - Code for the paper "Relational Graph Transformer for Knowledge Graph Representation"
