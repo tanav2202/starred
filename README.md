@@ -65,6 +65,8 @@
 
 ## Jupyter Notebook 
 
+- [tanav2202/WGAN-GP](https://github.com/tanav2202/WGAN-GP) - Wasserstein GAN + Gradient Penalty
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [SamanthaBiegel/ActiveWeaSuL](https://github.com/SamanthaBiegel/ActiveWeaSuL) - 
 - [lazuxd/medium-scraping](https://github.com/lazuxd/medium-scraping) - Code used to scrape medium
 - [tanav2202/Algo-Trading](https://github.com/tanav2202/Algo-Trading) - 
@@ -111,6 +113,7 @@
 
 ## Others 
 
+- [BrambleXu/knowledge-graph-learning](https://github.com/BrambleXu/knowledge-graph-learning) - A curated list of awesome knowledge graph tutorials, projects and communities.
 - [michael-aloys/awesome-weak-supervision](https://github.com/michael-aloys/awesome-weak-supervision) - 
 - [Richard88888/awesome-multimodal-in-medical-imaging](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging) - A collection of resources on applications of multi-modal learning in medical imaging.
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
@@ -148,6 +151,11 @@
 
 ## Python 
 
+- [ratschlab/RGAN](https://github.com/ratschlab/RGAN) - Recurrent (conditional) generative adversarial networks for generating real-valued time series data.
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
+- [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
+- [tcapelle/termGPT](https://github.com/tcapelle/termGPT) - A simple wrapper to call openAI's chatGPT on the terminal written in Python
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [orcax/PGPR](https://github.com/orcax/PGPR) - Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
