@@ -114,6 +114,7 @@
 
 ## Others 
 
+- [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
 - [BrambleXu/knowledge-graph-learning](https://github.com/BrambleXu/knowledge-graph-learning) - A curated list of awesome knowledge graph tutorials, projects and communities.
 - [michael-aloys/awesome-weak-supervision](https://github.com/michael-aloys/awesome-weak-supervision) - 
 - [Richard88888/awesome-multimodal-in-medical-imaging](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging) - A collection of resources on applications of multi-modal learning in medical imaging.
