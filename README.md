@@ -114,6 +114,7 @@
 
 ## Others 
 
+- [LirongWu/awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) - Awesome Graph Self-Supervised Learning
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
 - [BrambleXu/knowledge-graph-learning](https://github.com/BrambleXu/knowledge-graph-learning) - A curated list of awesome knowledge graph tutorials, projects and communities.
 - [michael-aloys/awesome-weak-supervision](https://github.com/michael-aloys/awesome-weak-supervision) - 
@@ -153,6 +154,7 @@
 
 ## Python 
 
+- [arnauqb/GradABM-JUNE](https://github.com/arnauqb/GradABM-JUNE) - Implementation of the JUNE model using Graph Neural Networks in PyTorch
 - [charlesq34/pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 - [sergiooramas/tartarus](https://github.com/sergiooramas/tartarus) - Deep Learning for audio and text
 - [ratschlab/RGAN](https://github.com/ratschlab/RGAN) - Recurrent (conditional) generative adversarial networks for generating real-valued time series data.
