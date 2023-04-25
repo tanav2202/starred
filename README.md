@@ -161,6 +161,7 @@
 
 ## Python 
 
+- [booydar/LM-RMT](https://github.com/booydar/LM-RMT) - Recurrent Memory Transformer
 - [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
 - [arnauqb/GradABM-JUNE](https://github.com/arnauqb/GradABM-JUNE) - Implementation of the JUNE model using Graph Neural Networks in PyTorch
 - [charlesq34/pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
