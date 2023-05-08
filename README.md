@@ -125,7 +125,7 @@
 - [totogo/awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph) - A curated list of Knowledge Graph related learning materials, databases, tools and other resources
 - [BrambleXu/knowledge-graph-learning](https://github.com/BrambleXu/knowledge-graph-learning) - A curated list of awesome knowledge graph tutorials, projects and communities.
 - [michael-aloys/awesome-weak-supervision](https://github.com/michael-aloys/awesome-weak-supervision) - 
-- [Richard88888/awesome-multimodal-in-medical-imaging](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging) - A collection of resources on applications of multi-modal learning in medical imaging.
+- [richard-peng-xia/awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) - A collection of resources on applications of multi-modal learning in medical imaging.
 - [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) - VIP cheatsheets for Stanford's CS 230 Deep Learning
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [louisfb01/best_AI_papers_2022](https://github.com/louisfb01/best_AI_papers_2022) - A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.
