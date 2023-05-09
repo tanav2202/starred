@@ -170,7 +170,7 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [tcapelle/termGPT](https://github.com/tcapelle/termGPT) - A simple wrapper to call openAI's chatGPT on the terminal written in Python
-- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 - [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [orcax/PGPR](https://github.com/orcax/PGPR) - Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
