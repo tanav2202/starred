@@ -244,7 +244,7 @@
 
 ## TypeScript 
 
-- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+- [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [NuroDev/nuro.dev](https://github.com/NuroDev/nuro.dev) - 🌿  Personal Portfolio
 
 
