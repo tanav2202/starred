@@ -12,6 +12,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
@@ -64,8 +65,13 @@
 - [tanav2202/tanav2202.github.io](https://github.com/tanav2202/tanav2202.github.io) - My Portfolio Website
 - [neos-20/neos-20.github.io](https://github.com/neos-20/neos-20.github.io) - Official static website for Neos Project
 
+## Java 
+
+- [tanav2202/OODM-lab-](https://github.com/tanav2202/OODM-lab-) - 
+
 ## JavaScript 
 
+- [tanav2202/anime_recommendation_system](https://github.com/tanav2202/anime_recommendation_system) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
@@ -161,6 +167,7 @@
 
 ## Python 
 
+- [tanav2202/IITM-Assignments](https://github.com/tanav2202/IITM-Assignments) - Store to keep programming related solutions given by IITM BSc
 - [booydar/LM-RMT](https://github.com/booydar/LM-RMT) - Recurrent Memory Transformer
 - [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
 - [arnauqb/GradABM-JUNE](https://github.com/arnauqb/GradABM-JUNE) - Implementation of the JUNE model using Graph Neural Networks in PyTorch
@@ -228,6 +235,8 @@
 
 ## Shell 
 
+- [tanav2202/docker-elk](https://github.com/tanav2202/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
+- [tanav2202/docker-elk-1](https://github.com/tanav2202/docker-elk-1) - The Elastic stack (ELK) powered by Docker and Compose.
 - [patrkris/pisk](https://github.com/patrkris/pisk) - PostgreSQL sessions in Vim
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
