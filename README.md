@@ -166,9 +166,12 @@
 
 ## Python 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
+- [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [tanav2202/IITM-Assignments](https://github.com/tanav2202/IITM-Assignments) - Store to keep programming related solutions given by IITM BSc
 - [booydar/LM-RMT](https://github.com/booydar/LM-RMT) - Recurrent Memory Transformer
-- [stochasticai/xturing](https://github.com/stochasticai/xturing) - Easily build, customize and control your own LLMs
+- [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Easily build, customize and control your own LLMs
 - [arnauqb/GradABM-JUNE](https://github.com/arnauqb/GradABM-JUNE) - Implementation of the JUNE model using Graph Neural Networks in PyTorch
 - [charlesq34/pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 - [sergiooramas/tartarus](https://github.com/sergiooramas/tartarus) - Deep Learning for audio and text
