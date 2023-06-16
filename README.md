@@ -169,6 +169,7 @@
 
 ## Python 
 
+- [Quanturf/quanturf_pypi_package](https://github.com/Quanturf/quanturf_pypi_package) - 
 - [steamship-core/python-client](https://github.com/steamship-core/python-client) - 
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
