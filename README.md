@@ -169,6 +169,8 @@
 
 ## Python 
 
+- [ZhuMetLab/MetImage](https://github.com/ZhuMetLab/MetImage) - Converting LC−MS-based Untargeted Metabolomics Data into Image towards Clinical Diagnosis
+- [facebookresearch/HierVL](https://github.com/facebookresearch/HierVL) - [CVPR 2023] HierVL Learning Hierarchical Video-Language Embeddings
 - [Quanturf/quanturf_pypi_package](https://github.com/Quanturf/quanturf_pypi_package) - 
 - [steamship-core/python-client](https://github.com/steamship-core/python-client) - 
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -255,6 +257,7 @@
 
 ## TeX 
 
+- [YumcoderCom/learn-rust-lang](https://github.com/YumcoderCom/learn-rust-lang) - Learn Rust
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [AllenDowney/ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
 - [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet) - A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.
