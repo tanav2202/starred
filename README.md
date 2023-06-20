@@ -169,6 +169,7 @@
 
 ## Python 
 
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [ZhuMetLab/MetImage](https://github.com/ZhuMetLab/MetImage) - Converting LC−MS-based Untargeted Metabolomics Data into Image towards Clinical Diagnosis
 - [facebookresearch/HierVL](https://github.com/facebookresearch/HierVL) - [CVPR 2023] HierVL Learning Hierarchical Video-Language Embeddings
 - [Quanturf/quanturf_pypi_package](https://github.com/Quanturf/quanturf_pypi_package) - 
