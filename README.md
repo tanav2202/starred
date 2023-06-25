@@ -57,6 +57,7 @@
 
 ## HTML 
 
+- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) - A beautiful, simple, clean, and responsive Jekyll theme for academics
 - [makcedward/makcedward.github.io](https://github.com/makcedward/makcedward.github.io) - 
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [tanav2202/books](https://github.com/tanav2202/books) - Website about my books
