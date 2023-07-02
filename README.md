@@ -176,7 +176,6 @@
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [ZhuMetLab/MetImage](https://github.com/ZhuMetLab/MetImage) - Converting LC−MS-based Untargeted Metabolomics Data into Image towards Clinical Diagnosis
 - [facebookresearch/HierVL](https://github.com/facebookresearch/HierVL) - [CVPR 2023] HierVL Learning Hierarchical Video-Language Embeddings
-- [Quanturf/quanturf_pypi_package](https://github.com/Quanturf/quanturf_pypi_package) - 
 - [steamship-core/python-client](https://github.com/steamship-core/python-client) - 
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
@@ -188,7 +187,7 @@
 - [charlesq34/pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 - [sergiooramas/tartarus](https://github.com/sergiooramas/tartarus) - Deep Learning for audio and text
 - [ratschlab/RGAN](https://github.com/ratschlab/RGAN) - Recurrent (conditional) generative adversarial networks for generating real-valued time series data.
-- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source ML monitoring and refinement toolkit.
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM experimentation, response validation and monitoring toolkit.
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [tcapelle/termGPT](https://github.com/tcapelle/termGPT) - A simple wrapper to call openAI's chatGPT on the terminal written in Python
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
@@ -218,7 +217,6 @@
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [smahesh29/Gender-and-Age-Detection](https://github.com/smahesh29/Gender-and-Age-Detection) - A Python project which can detect gender and age using OpenCV of the person (face) in a picture or through webcam.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
-- [kshgrk/people-crossing-alerting](https://github.com/kshgrk/people-crossing-alerting) - 
 - [llSourcell/Pokemon_GAN](https://github.com/llSourcell/Pokemon_GAN) - This is the code for "Generating Pokemon with a Generative Adversarial Network" by Siraj Raval on Youtube
 - [leonidk/direct_gmm](https://github.com/leonidk/direct_gmm) - Project code for "Direct Fitting of Gaussian Mixture Models"
 - [domus123/gpopy](https://github.com/domus123/gpopy) - Genetic algorithm Parameter Optimizer Python (GPOPY)
