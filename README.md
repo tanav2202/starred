@@ -171,6 +171,7 @@
 
 ## Python 
 
+- [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [wchen459/PaDGAN](https://github.com/wchen459/PaDGAN) - PaDGAN: A Generative Adversarial Network for Performance Augmented Diverse Designs
 - [SkalskiP/top-cvpr-2023-papers](https://github.com/SkalskiP/top-cvpr-2023-papers) - This repository is a curated collection of the most exciting and influential CVPR 2023 papers. 🔥 [Paper + Code]
