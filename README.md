@@ -12,6 +12,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -65,6 +66,10 @@
 - [tanav2202/walls](https://github.com/tanav2202/walls) - 
 - [tanav2202/tanav2202.github.io](https://github.com/tanav2202/tanav2202.github.io) - My Portfolio Website
 - [neos-20/neos-20.github.io](https://github.com/neos-20/neos-20.github.io) - Official static website for Neos Project
+
+## Handlebars 
+
+- [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
 
 ## Java 
 
