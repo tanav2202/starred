@@ -134,6 +134,7 @@
 
 ## Others 
 
+- [rbhatia46/Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
 - [Coder-World04/ML-AI-Research-Papers---Solved](https://github.com/Coder-World04/ML-AI-Research-Papers---Solved) - This repository contains everything you need to become proficient in ML/AI Research and Research Papers
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [tanav2202/tanav2202](https://github.com/tanav2202/tanav2202) - readme for github
