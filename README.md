@@ -98,6 +98,7 @@
 - [ashishpatel26/Coursera-Guided-Projects-2021](https://github.com/ashishpatel26/Coursera-Guided-Projects-2021) - Coursera Guided Projects 2021
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like
 - [tanav2202/Kaggle-Notebooks](https://github.com/tanav2202/Kaggle-Notebooks) - A list of Notebooks created by me on Kaggle
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
@@ -134,6 +135,7 @@
 
 ## Others 
 
+- [firmai/data-science-career](https://github.com/firmai/data-science-career) - Career Resources for Data Science, Machine Learning, Big Data and Business Analytics Career Repository
 - [rbhatia46/Data-Science-Interview-Resources](https://github.com/rbhatia46/Data-Science-Interview-Resources) - A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.
 - [Coder-World04/ML-AI-Research-Papers---Solved](https://github.com/Coder-World04/ML-AI-Research-Papers---Solved) - This repository contains everything you need to become proficient in ML/AI Research and Research Papers
 - [elyase/awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
@@ -223,7 +225,6 @@
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet) - PyTorch implementation of TabNet paper : https://arxiv.org/pdf/1908.07442.pdf
 - [tanav2202/Tweet-Profanity](https://github.com/tanav2202/Tweet-Profanity) - 
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
