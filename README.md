@@ -273,7 +273,7 @@
 
 - [tanav2202/docker-elk](https://github.com/tanav2202/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [tanav2202/docker-elk-1](https://github.com/tanav2202/docker-elk-1) - The Elastic stack (ELK) powered by Docker and Compose.
-- [patrkris/pisk](https://github.com/patrkris/pisk) - PostgreSQL sessions in Vim
+- [tamstrup/pisk](https://github.com/tamstrup/pisk) - PostgreSQL sessions in Vim
 - [deviantony/docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [naibaf0/dotfiles](https://github.com/naibaf0/dotfiles) - My dotfiles, with an out-of-date install-script. Arch, Tiling WM (i3, sway), ZSH, Neovim
 
