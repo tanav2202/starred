@@ -243,7 +243,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, in Python 🌟 Star to support our work!
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [smahesh29/Gender-and-Age-Detection](https://github.com/smahesh29/Gender-and-Age-Detection) - A Python project which can detect gender and age using OpenCV of the person (face) in a picture or through webcam.
-- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 400 universities from 60 countries including Stanford, MIT, Harvard, and Cambridge.
+- [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.
 - [llSourcell/Pokemon_GAN](https://github.com/llSourcell/Pokemon_GAN) - This is the code for "Generating Pokemon with a Generative Adversarial Network" by Siraj Raval on Youtube
 - [leonidk/direct_gmm](https://github.com/leonidk/direct_gmm) - Project code for "Direct Fitting of Gaussian Mixture Models"
 - [domus123/gpopy](https://github.com/domus123/gpopy) - Genetic algorithm Parameter Optimizer Python (GPOPY)
