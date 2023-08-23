@@ -78,6 +78,7 @@
 
 ## Java 
 
+- [xa/RetroWrapper](https://github.com/xa/RetroWrapper) - Runtime patches for old versions of Minecraft
 - [tanav2202/OODM-lab-](https://github.com/tanav2202/OODM-lab-) - 
 
 ## JavaScript 
@@ -88,6 +89,7 @@
 
 ## Jupyter Notebook 
 
+- [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) - Democratizing Internet-scale financial data.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We'll soon release the trained model.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
