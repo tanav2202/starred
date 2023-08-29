@@ -92,7 +92,7 @@
 - [nicknochnack/StreetFighterRL](https://github.com/nicknochnack/StreetFighterRL) - 
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) - Democratizing Internet-scale financial data.
-- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We'll soon release the trained model.
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [tanav2202/WGAN-GP](https://github.com/tanav2202/WGAN-GP) - Wasserstein GAN + Gradient Penalty
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
