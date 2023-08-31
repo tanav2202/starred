@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -27,10 +26,6 @@
 - [Stata](#stata)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-
-## C 
-
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 
 ## C# # 
 
@@ -60,6 +55,7 @@
 
 ## Go 
 
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [JefeDavis/Resume-Operator](https://github.com/JefeDavis/Resume-Operator) - Kubernetes operator to build & host my resume, powered by operator-builder
 
 ## HTML 
