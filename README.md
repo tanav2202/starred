@@ -90,6 +90,7 @@
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) - Democratizing Internet-scale financial data.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [tanav2202/WGAN-GP](https://github.com/tanav2202/WGAN-GP) - Wasserstein GAN + Gradient Penalty
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -207,7 +208,6 @@
 - [ZhuMetLab/MetImage](https://github.com/ZhuMetLab/MetImage) - Converting LC−MS-based Untargeted Metabolomics Data into Image towards Clinical Diagnosis
 - [facebookresearch/HierVL](https://github.com/facebookresearch/HierVL) - [CVPR 2023] HierVL Learning Hierarchical Video-Language Embeddings
 - [steamship-core/python-client](https://github.com/steamship-core/python-client) - 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [tanav2202/IITM-Assignments](https://github.com/tanav2202/IITM-Assignments) - Store to keep programming related solutions given by IITM BSc
