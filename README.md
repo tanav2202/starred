@@ -80,6 +80,7 @@
 
 ## JavaScript 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [tanav2202/anime_recommendation_system](https://github.com/tanav2202/anime_recommendation_system) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -140,6 +141,7 @@
 
 ## Others 
 
+- [HillZhang1999/llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey) - Reading list of hallucination in LLMs. Check out our new survey paper: "Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models"
 - [evanmiller/LLM-Reading-List](https://github.com/evanmiller/LLM-Reading-List) - LLM papers I'm reading, mostly on inference and model compression
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning) - 😎 📜 Collection of the most awesome Maths learning resources in the form of notes, videos and cheatsheets.
@@ -208,7 +210,6 @@
 - [ZhuMetLab/MetImage](https://github.com/ZhuMetLab/MetImage) - Converting LC−MS-based Untargeted Metabolomics Data into Image towards Clinical Diagnosis
 - [facebookresearch/HierVL](https://github.com/facebookresearch/HierVL) - [CVPR 2023] HierVL Learning Hierarchical Video-Language Embeddings
 - [steamship-core/python-client](https://github.com/steamship-core/python-client) - 
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [rodolflying/GPT_scraper](https://github.com/rodolflying/GPT_scraper) - This repository provides a way to scrape full user history (or use) ChatGPT through 2 methods: frontend "hidden" API based or  Selenium based, both have their own pros. It can be helpful for avoiding 
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [tanav2202/IITM-Assignments](https://github.com/tanav2202/IITM-Assignments) - Store to keep programming related solutions given by IITM BSc
@@ -218,7 +219,7 @@
 - [charlesq34/pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 - [sergiooramas/tartarus](https://github.com/sergiooramas/tartarus) - Deep Learning for audio and text
 - [ratschlab/RGAN](https://github.com/ratschlab/RGAN) - Recurrent (conditional) generative adversarial networks for generating real-valued time series data.
-- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM experimentation, response validation and monitoring toolkit.
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [tcapelle/termGPT](https://github.com/tcapelle/termGPT) - A simple wrapper to call openAI's chatGPT on the terminal written in Python
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
