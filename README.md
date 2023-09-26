@@ -140,6 +140,7 @@
 
 ## Others 
 
+- [vr25/hallucination-foundation-model-survey](https://github.com/vr25/hallucination-foundation-model-survey) - A Survey of Hallucination in Large Foundation Models
 - [HillZhang1999/llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey) - Reading list of hallucination in LLMs. Check out our new survey paper: "Siren’s Song in the AI Ocean: A Survey on Hallucination in Large Language Models"
 - [evanmiller/LLM-Reading-List](https://github.com/evanmiller/LLM-Reading-List) - LLM papers I'm reading, mostly on inference and model compression
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
