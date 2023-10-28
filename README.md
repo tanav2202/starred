@@ -191,6 +191,7 @@
 
 ## Python 
 
+- [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - A research project for natural language generation, containing the official implementations by MSRA NLC team.
 - [lorenzkuhn/semantic_uncertainty](https://github.com/lorenzkuhn/semantic_uncertainty) - 
 - [sumitjhaleriya/AutoSelfie](https://github.com/sumitjhaleriya/AutoSelfie) - This Python script utilizes OpenCV and Pyttsx3 to create a real-time selfie capture application with facial recognition features. It captures a selfie when a smile is detected on a recognized face, an
