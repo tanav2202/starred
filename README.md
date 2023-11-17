@@ -232,7 +232,7 @@
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [orcax/PGPR](https://github.com/orcax/PGPR) - Reinforcement Knowledge Graph Reasoning for Explainable Recommendation
 - [NVlabs/prismer](https://github.com/NVlabs/prismer) - The implementation of "Prismer: A Vision-Language Model with An Ensemble of Experts".
-- [zjunlp/Relphormer](https://github.com/zjunlp/Relphormer) - Code for the paper "Relational Graph Transformer for Knowledge Graph Representation"
+- [zjunlp/Relphormer](https://github.com/zjunlp/Relphormer) - Code for the Neurocomputing 2023 paper "Relational Graph Transformer for Knowledge Graph Representation"
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [w86763777/pytorch-gan-metrics](https://github.com/w86763777/pytorch-gan-metrics) - Pytorch implementation of common GAN metrics
