@@ -191,6 +191,7 @@
 
 ## Python 
 
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - A research project for natural language generation, containing the official implementations by MSRA NLC team.
 - [lorenzkuhn/semantic_uncertainty](https://github.com/lorenzkuhn/semantic_uncertainty) - 
@@ -205,7 +206,7 @@
 - [invictus717/MetaTransformer](https://github.com/invictus717/MetaTransformer) - Meta-Transformer for Unified Multimodal Learning
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [embedchain/embedchain](https://github.com/embedchain/embedchain) - Production ready RAG framework - Load, index, retrieve and sync any unstructured data
+- [embedchain/embedchain](https://github.com/embedchain/embedchain) - The Open Source RAG framework
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [wchen459/PaDGAN](https://github.com/wchen459/PaDGAN) - PaDGAN: A Generative Adversarial Network for Performance Augmented Diverse Designs
