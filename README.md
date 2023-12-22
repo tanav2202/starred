@@ -191,6 +191,7 @@
 
 ## Python 
 
+- [madaan/minimal-text-diffusion](https://github.com/madaan/minimal-text-diffusion) - A minimal implementation of diffusion models for text generation
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - A research project for natural language generation, containing the official implementations by MSRA NLC team.
