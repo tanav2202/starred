@@ -79,6 +79,7 @@
 
 ## JavaScript 
 
+- [theshinegupta/AI-Summarizer](https://github.com/theshinegupta/AI-Summarizer) - 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [tanav2202/anime_recommendation_system](https://github.com/tanav2202/anime_recommendation_system) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
