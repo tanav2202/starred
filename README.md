@@ -87,7 +87,6 @@
 
 ## Jupyter Notebook 
 
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [nicknochnack/StreetFighterRL](https://github.com/nicknochnack/StreetFighterRL) - 
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) - Democratizing Internet-scale financial data.
@@ -199,6 +198,7 @@
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - A research project for natural language generation, containing the official implementations by MSRA NLC team.
 - [lorenzkuhn/semantic_uncertainty](https://github.com/lorenzkuhn/semantic_uncertainty) - 
 - [sumitjhaleriya/AutoSelfie](https://github.com/sumitjhaleriya/AutoSelfie) - This Python script utilizes OpenCV and Pyttsx3 to create a real-time selfie capture application with facial recognition features. It captures a selfie when a smile is detected on a recognized face, an
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [chengtan9907/OpenSTL](https://github.com/chengtan9907/OpenSTL) - OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
