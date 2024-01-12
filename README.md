@@ -115,7 +115,7 @@
 - [codebasics/py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
 - [hackassin/Brain-MRI-Style-Transfer-With-GAN](https://github.com/hackassin/Brain-MRI-Style-Transfer-With-GAN) - A capstone project dedicated to leveraging Style GAN (Generative Adversarial Network) to generate Brain MRI images of different contrasts
 - [bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists) - https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1
-- [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) - 🙌Kart of 210+ projects based on machine learning, deep learning, computer vision, natural language processing and all. Show your support by ✨ this repository.
+- [prathimacode-hub/ML-ProjectKart](https://github.com/prathimacode-hub/ML-ProjectKart) - 🙌Kart of 232+ projects based on machine learning, deep learning, computer vision, natural language processing and all. Show your support by ✨ this repository.
 - [sanskar-hasija/COVID-19_Detection](https://github.com/sanskar-hasija/COVID-19_Detection) - Official Repository for A Novel Approach for detecting Normal, COVID-19 and Pneumonia patient using only binary classifications from chest CT-Scans Paper
 - [FreeBirdsCrew/AI_ChatBot_Python](https://github.com/FreeBirdsCrew/AI_ChatBot_Python) - AI ChatBot using Python Tensorflow and Natural Language Processing (NLP) along side TFLearn
 - [edualgo/Grokking-Machine-Learning](https://github.com/edualgo/Grokking-Machine-Learning) - This repo aims to contain different machine learning use cases along with the descriptions to the model architectures
