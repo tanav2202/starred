@@ -229,7 +229,7 @@
 - [charlesq34/pointnet](https://github.com/charlesq34/pointnet) - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
 - [sergiooramas/tartarus](https://github.com/sergiooramas/tartarus) - Deep Learning for audio and text
 - [ratschlab/RGAN](https://github.com/ratschlab/RGAN) - Recurrent (conditional) generative adversarial networks for generating real-valued time series data.
-- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - UpTrain is an open-source unified platform to evaluate and improve Generative AI applications. We provide grades for 20+ preconfigured checks (covering language, code, embedding use-cases), perform ro
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [tcapelle/termGPT](https://github.com/tcapelle/termGPT) - A simple wrapper to call openAI's chatGPT on the terminal written in Python
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
