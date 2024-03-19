@@ -70,7 +70,7 @@
 
 ## Handlebars 
 
-- [rustlang-cn/rusty-book](https://github.com/rustlang-cn/rusty-book) - A curated list of recipes and repos that can be used to build your rusty projects. Rusty Book = Cookbook + Awesome Rust！
+- [sunface/BeatAI](https://github.com/sunface/BeatAI) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## Java 
 
@@ -193,6 +193,8 @@
 
 ## Python 
 
+- [openai/grok](https://github.com/openai/grok) - 
+- [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [madaan/minimal-text-diffusion](https://github.com/madaan/minimal-text-diffusion) - A minimal implementation of diffusion models for text generation
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
