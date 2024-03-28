@@ -87,6 +87,7 @@
 
 ## Jupyter Notebook 
 
+- [LucaCappelletti94/hyperloglog-rs](https://github.com/LucaCappelletti94/hyperloglog-rs) - A Rust implementation of HyperLogLog trying to be parsimonious with memory.
 - [nicknochnack/StreetFighterRL](https://github.com/nicknochnack/StreetFighterRL) - 
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) - Democratizing Internet-scale financial data.
@@ -140,6 +141,7 @@
 
 ## Others 
 
+- [Openning07/awesome-curriculum-learning](https://github.com/Openning07/awesome-curriculum-learning) - some bravo or inspiring research works on the topic of curriculum learning
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [JShollaj/awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - A curated list of Large Language Model (LLM) Interpretability resources.
 - [SimplifyJobs/Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2024 tech internships!
@@ -193,6 +195,8 @@
 
 ## Python 
 
+- [MobileTeleSystems/CoolGraph](https://github.com/MobileTeleSystems/CoolGraph) - Make GNN easy to start with
+- [pygod-team/pygod](https://github.com/pygod-team/pygod) - A Python Library for Graph Outlier Detection (Anomaly Detection)
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [openai/grok](https://github.com/openai/grok) - 
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
