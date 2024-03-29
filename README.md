@@ -195,6 +195,7 @@
 
 ## Python 
 
+- [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [MobileTeleSystems/CoolGraph](https://github.com/MobileTeleSystems/CoolGraph) - Make GNN easy to start with
 - [pygod-team/pygod](https://github.com/pygod-team/pygod) - A Python Library for Graph Outlier Detection (Anomaly Detection)
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
