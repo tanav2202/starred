@@ -70,7 +70,7 @@
 
 ## Handlebars 
 
-- [loong-ai/beat-ai](https://github.com/loong-ai/beat-ai) - 专属于软件开发工程师的 AI 入门圣经。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+- [sunface/beat-ai](https://github.com/sunface/beat-ai) - 专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
 
 ## Java 
 
@@ -87,6 +87,8 @@
 
 ## Jupyter Notebook 
 
+- [amitsangani/Llama-2](https://github.com/amitsangani/Llama-2) - All the projects related to Llama
+- [myracheng/markedpersonas](https://github.com/myracheng/markedpersonas) - Code and data for Marked Personas (ACL 2023)
 - [LucaCappelletti94/hyperloglog-rs](https://github.com/LucaCappelletti94/hyperloglog-rs) - A Rust implementation of HyperLogLog trying to be parsimonious with memory.
 - [nicknochnack/StreetFighterRL](https://github.com/nicknochnack/StreetFighterRL) - 
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
@@ -195,6 +197,9 @@
 
 ## Python 
 
+- [HendrikStrobelt/LMdiff](https://github.com/HendrikStrobelt/LMdiff) - A diff tool for language models
+- [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
+- [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
 - [MobileTeleSystems/CoolGraph](https://github.com/MobileTeleSystems/CoolGraph) - Make GNN easy to start with
 - [pygod-team/pygod](https://github.com/pygod-team/pygod) - A Python Library for Graph Outlier Detection (Anomaly Detection)
