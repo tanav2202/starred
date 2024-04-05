@@ -197,6 +197,7 @@
 
 ## Python 
 
+- [qitianwu/DIFFormer](https://github.com/qitianwu/DIFFormer) - The official implementation for ICLR23 spotlight paper "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion"
 - [HendrikStrobelt/LMdiff](https://github.com/HendrikStrobelt/LMdiff) - A diff tool for language models
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
