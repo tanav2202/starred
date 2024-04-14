@@ -197,6 +197,7 @@
 
 ## Python 
 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [qitianwu/DIFFormer](https://github.com/qitianwu/DIFFormer) - The official implementation for ICLR23 spotlight paper "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion"
 - [HendrikStrobelt/LMdiff](https://github.com/HendrikStrobelt/LMdiff) - A diff tool for language models
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
