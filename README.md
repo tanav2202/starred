@@ -87,7 +87,7 @@
 
 ## Jupyter Notebook 
 
-- [amitsangani/Llama-2](https://github.com/amitsangani/Llama-2) - All the projects related to Llama
+- [amitsangani/Llama](https://github.com/amitsangani/Llama) - All the projects related to Llama
 - [myracheng/markedpersonas](https://github.com/myracheng/markedpersonas) - Code and data for Marked Personas (ACL 2023)
 - [LucaCappelletti94/hyperloglog-rs](https://github.com/LucaCappelletti94/hyperloglog-rs) - A Rust implementation of HyperLogLog trying to be parsimonious with memory.
 - [nicknochnack/StreetFighterRL](https://github.com/nicknochnack/StreetFighterRL) - 
