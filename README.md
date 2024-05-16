@@ -196,6 +196,7 @@
 
 ## Python 
 
+- [graspologic-org/graspologic](https://github.com/graspologic-org/graspologic) - Python package for graph statistics
 - [VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai) - Python scraper based on AI
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [qitianwu/DIFFormer](https://github.com/qitianwu/DIFFormer) - The official implementation for ICLR23 spotlight paper "DIFFormer: Scalable (Graph) Transformers Induced by Energy Constrained Diffusion"
