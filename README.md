@@ -110,7 +110,7 @@
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
-- [hemansnation/God-Level-Data-Science-ML-Full-Stack](https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack) - A collection of scientific methods, processes, algorithms, and systems to build stories & models. Whether you are a fresher in the field or an experienced professional who wants to transition into Dat
+- [hemansnation/God-Level-AI](https://github.com/hemansnation/God-Level-AI) - A collection of scientific methods, processes, algorithms, and systems to build stories & models.
 - [HeroKillerEver/coursera-deep-learning](https://github.com/HeroKillerEver/coursera-deep-learning) - Solutions to all quiz and all the programming assignments!!!
 - [amanchadha/coursera-gan-specialization](https://github.com/amanchadha/coursera-gan-specialization) - Programming assignments and quizzes from all courses within the GANs specialization offered by deeplearning.ai
 - [arnabbiswas1/kaggle_pipeline_tps_aug_22](https://github.com/arnabbiswas1/kaggle_pipeline_tps_aug_22) - Kaggle Pipeline for tabular data competitions
