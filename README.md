@@ -258,7 +258,7 @@
 - [zjunlp/Relphormer](https://github.com/zjunlp/Relphormer) - [Neurocomputing 2023] Relational Graph Transformer for Knowledge Graph Representation
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [w86763777/pytorch-gan-metrics](https://github.com/w86763777/pytorch-gan-metrics) - Pytorch implementation of common GAN metrics
+- [w86763777/pytorch-image-generation-metrics](https://github.com/w86763777/pytorch-image-generation-metrics) - Pytorch implementation of common image generation metrics.
 - [dorarad/gansformer](https://github.com/dorarad/gansformer) - Generative Adversarial Transformers
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 - [cuiziteng/Illumination-Adaptive-Transformer](https://github.com/cuiziteng/Illumination-Adaptive-Transformer) - [BMVC 2022] You Only Need 90K Parameters to Adapt Light: A Light Weight Transformer for Image Enhancement and Exposure Correction. SOTA for low light enhancement, 0.004 seconds try this for pre-proces
