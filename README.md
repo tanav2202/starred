@@ -143,6 +143,7 @@
 
 ## Others 
 
+- [jianzhnie/awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) - A Survey on Text-to-Video Generation/Synthesis.
 - [Openning07/awesome-curriculum-learning](https://github.com/Openning07/awesome-curriculum-learning) - some bravo or inspiring research works on the topic of curriculum learning
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [JShollaj/awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - A curated list of Large Language Model (LLM) Interpretability resources.
