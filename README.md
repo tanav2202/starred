@@ -90,6 +90,7 @@
 - [amitsangani/Llama](https://github.com/amitsangani/Llama) - All the projects related to Llama
 - [myracheng/markedpersonas](https://github.com/myracheng/markedpersonas) - Code and data for Marked Personas (ACL 2023)
 - [LucaCappelletti94/hyperloglog-rs](https://github.com/LucaCappelletti94/hyperloglog-rs) - A Rust implementation of HyperLogLog trying to be parsimonious with memory.
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [nicknochnack/StreetFighterRL](https://github.com/nicknochnack/StreetFighterRL) - 
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) - Democratizing Internet-scale financial data.
@@ -213,7 +214,6 @@
 - [openai/grok](https://github.com/openai/grok) - 
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [madaan/minimal-text-diffusion](https://github.com/madaan/minimal-text-diffusion) - A minimal implementation of diffusion models for text generation
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - A research project for natural language generation, containing the official implementations by MSRA NLC team.
 - [lorenzkuhn/semantic_uncertainty](https://github.com/lorenzkuhn/semantic_uncertainty) - 
@@ -230,7 +230,7 @@
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
 - [wykswr/breathXplorer](https://github.com/wykswr/breathXplorer) - An advanced instrument for breathomics examination
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Long-term memory for LLMs
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot) - LLM as a Chatbot Service
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [wchen459/PaDGAN](https://github.com/wchen459/PaDGAN) - PaDGAN: A Generative Adversarial Network for Performance Augmented Diverse Designs
