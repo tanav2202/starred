@@ -193,6 +193,7 @@
 
 ## PLpgSQL 
 
+- [timescale/pgai](https://github.com/timescale/pgai) - Bring AI models closer to your PostgreSQL data
 - [AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst](https://github.com/AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst) - A Challenge To Test My SQL Skills For A Braintree Data Analyst Interview Process
 
 ## Python 
