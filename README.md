@@ -107,7 +107,7 @@
 - [ashishpatel26/Coursera-Guided-Projects-2021](https://github.com/ashishpatel26/Coursera-Guided-Projects-2021) - Coursera Guided Projects 2021
 - [roboflow/notebooks](https://github.com/roboflow/notebooks) - Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like
 - [tanav2202/Kaggle-Notebooks](https://github.com/tanav2202/Kaggle-Notebooks) - A list of Notebooks created by me on Kaggle
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [Stability-AI/stability-sdk](https://github.com/Stability-AI/stability-sdk) - SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
