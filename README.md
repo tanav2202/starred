@@ -89,6 +89,7 @@
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - llama3 implementation one matrix multiplication at a time
 - [amitsangani/Llama](https://github.com/amitsangani/Llama) - All the projects related to Llama
 - [myracheng/markedpersonas](https://github.com/myracheng/markedpersonas) - Code and data for Marked Personas (ACL 2023)
+- [MobileTeleSystems/CoolGraph](https://github.com/MobileTeleSystems/CoolGraph) - Make GNN easy to start with
 - [LucaCappelletti94/hyperloglog-rs](https://github.com/LucaCappelletti94/hyperloglog-rs) - A Rust implementation of HyperLogLog trying to be parsimonious with memory.
 - [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [nicknochnack/StreetFighterRL](https://github.com/nicknochnack/StreetFighterRL) - 
@@ -209,7 +210,6 @@
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. D
-- [MobileTeleSystems/CoolGraph](https://github.com/MobileTeleSystems/CoolGraph) - Make GNN easy to start with
 - [pygod-team/pygod](https://github.com/pygod-team/pygod) - A Python Library for Graph Outlier Detection (Anomaly Detection)
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [openai/grok](https://github.com/openai/grok) - 
