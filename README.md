@@ -265,7 +265,7 @@
 - [w86763777/pytorch-image-generation-metrics](https://github.com/w86763777/pytorch-image-generation-metrics) - Pytorch implementation of common image generation metrics.
 - [dorarad/gansformer](https://github.com/dorarad/gansformer) - Generative Adversarial Transformers
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
-- [cuiziteng/Illumination-Adaptive-Transformer](https://github.com/cuiziteng/Illumination-Adaptive-Transformer) - 🏠 [BMVC 2022] You Only Need 90K Parameters to Adapt Light: A Light Weight Transformer for Image Enhancement and Exposure Correction. SOTA for low light enhancement, 0.004 seconds try this for pre-proc
+- [cuiziteng/Illumination-Adaptive-Transformer](https://github.com/cuiziteng/Illumination-Adaptive-Transformer) - 🌕 [BMVC 2022] You Only Need 90K Parameters to Adapt Light: A Light Weight Transformer for Image Enhancement and Exposure Correction. SOTA for low light enhancement, 0.004 seconds try this for pre-proc
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
