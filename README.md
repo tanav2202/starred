@@ -237,7 +237,7 @@
 - [wchen459/PaDGAN](https://github.com/wchen459/PaDGAN) - PaDGAN: A Generative Adversarial Network for Performance Augmented Diverse Designs
 - [SkalskiP/top-cvpr-2023-papers](https://github.com/SkalskiP/top-cvpr-2023-papers) - This repository is a curated collection of the most exciting and influential CVPR 2023 papers. 🔥 [Paper + Code]
 - [Luodian/Otter](https://github.com/Luodian/Otter) - 🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Not actively maintained.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 - [ZhuMetLab/MetImage](https://github.com/ZhuMetLab/MetImage) - Converting LC−MS-based Untargeted Metabolomics Data into Image towards Clinical Diagnosis
 - [facebookresearch/HierVL](https://github.com/facebookresearch/HierVL) - [CVPR 2023] HierVL Learning Hierarchical Video-Language Embeddings
 - [steamship-core/python-client](https://github.com/steamship-core/python-client) - 
