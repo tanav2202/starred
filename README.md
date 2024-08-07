@@ -91,7 +91,6 @@
 - [amitsangani/Llama](https://github.com/amitsangani/Llama) - All the projects related to Llama
 - [myracheng/markedpersonas](https://github.com/myracheng/markedpersonas) - Code and data for Marked Personas (ACL 2023)
 - [MobileTeleSystems/CoolGraph](https://github.com/MobileTeleSystems/CoolGraph) - Make GNN easy to start with
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [nicknochnack/StreetFighterRL](https://github.com/nicknochnack/StreetFighterRL) - 
 - [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder) - SoTA LLM for converting natural language questions to SQL queries
 - [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP) - Democratizing Internet-scale financial data.
@@ -215,6 +214,7 @@
 - [openai/grok](https://github.com/openai/grok) - 
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [madaan/minimal-text-diffusion](https://github.com/madaan/minimal-text-diffusion) - A minimal implementation of diffusion models for text generation
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Perform data science on data that remains in someone else's server
 - [NVIDIA/NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.
 - [microsoft/ProphetNet](https://github.com/microsoft/ProphetNet) - A research project for natural language generation, containing the official implementations by MSRA NLC team.
 - [lorenzkuhn/semantic_uncertainty](https://github.com/lorenzkuhn/semantic_uncertainty) - 
