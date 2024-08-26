@@ -184,7 +184,7 @@
 - [neos-20/node-blog](https://github.com/neos-20/node-blog) - 
 - [neos-20/learn-django-server](https://github.com/neos-20/learn-django-server) - 
 - [neos-20/.github](https://github.com/neos-20/.github) - About
-- [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
+- [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [anshumanv/awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources) - A curated list of everything related to anime.
 
 ## PHP 
