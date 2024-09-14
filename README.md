@@ -193,11 +193,11 @@
 
 ## PLpgSQL 
 
+- [timescale/pgai](https://github.com/timescale/pgai) - Bring AI models closer to your PostgreSQL data
 - [AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst](https://github.com/AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst) - A Challenge To Test My SQL Skills For A Braintree Data Analyst Interview Process
 
 ## Python 
 
-- [timescale/pgai](https://github.com/timescale/pgai) - Bring AI models closer to your PostgreSQL data
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [kuleshov-group/mdlm](https://github.com/kuleshov-group/mdlm) - Simplified Masked Diffusion Language Model
 - [Azure-Samples/graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
