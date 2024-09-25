@@ -198,6 +198,7 @@
 
 ## Python 
 
+- [nsidn98/InforMARL](https://github.com/nsidn98/InforMARL) - Code for our paper: Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation
 - [feder-cr/Auto_Jobs_Applier_AIHawk](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - Auto_Jobs_Applier_AIHawk is a tool that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized w
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally-aware Knowledge Graphs
