@@ -55,7 +55,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
 - [JefeDavis/Resume-Operator](https://github.com/JefeDavis/Resume-Operator) - Kubernetes operator to build & host my resume, powered by operator-builder
 
 ## HTML 
